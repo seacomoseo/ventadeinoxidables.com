@@ -1,0 +1,56 @@
+// Header
+
+#body-inicio #header {
+  .contact__data {
+    animation: show-up .5s 1.25s both;
+  }
+}
+
+
+// Sections
+
+#centros {
+  h3 > strong {
+    color: $grey;
+  }
+}
+.contact__form-button {
+  svg {
+    display: none;
+  }
+}
+.logo__link:not(.aux) {
+  background-image: none;
+}
+
+// .custom-modal {
+//   .image {
+//     width: 16em;
+//     padding-bottom: 16em;
+//     margin: 0 auto;
+//   }
+// }
+table {
+  margin-left: auto;
+  white-space: unset;
+}
+.type-categories {
+  .article__figure {
+    display: none;
+  }
+}
+
+// Ayudas
+
+#body-ayudas {
+  .image--border {
+      background-color: initial;
+  }
+  .image__inner {
+    background-image: none;
+  }
+  .content__figure {
+    display: inline-block;
+    width: fluid-size(288px, 330px);
+  }
+}

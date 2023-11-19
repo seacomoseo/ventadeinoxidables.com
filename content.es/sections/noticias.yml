@@ -1,0 +1,12 @@
+id: noticias
+title: Noticias
+subtitle: Novedades
+color: light
+rows:
+- type: articles
+  kind: blog
+  max: 4
+  design:
+    num: 4
+    color: white
+    slider: true

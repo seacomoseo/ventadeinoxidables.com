@@ -1,0 +1,61 @@
+id: fabricacion
+title: Fabricación
+subtitle: Personalizada
+color: light
+rows:
+- type: columns
+  design:
+    num: 4
+    underline: true
+    color: white
+    ratio: 3x2
+    inset: true
+  items:
+  - title: Pulido Automático
+    image: pulido-satinado-automatico.jpg
+    description: |
+      Contamos con 10 maquinas automaticas de fabricacion de acabado tanto exterior como interior para dar al cliente el servicio exclusivo que necesita.
+  - title: Pulido de Chapa
+    image: pulido-satinado-chapa.jpg
+    description: |
+      Fabricamos acabado pulido y satinado en superficies planas y añadimos el plastificado que dese el cliente.
+  - title: Pulido de Accesorios
+    image: pulido-interior-exterior-accesorios.jpg
+    description: |
+      Fabricamos todo tipo de acabados en el accesosorio dejando la rugosidad RA como soliciten y cabibrándolo con nuestro rugosímetro para optener la mayor calidad deseada.
+  - title: Corte y Plegado
+    image: corte-plegado.jpg
+    description: |
+      Disponemos de tres maquinas de corte y plegado de hasta 6 metros de longitud para un servicio rapido de tus pedidos a medida.
+  - title: Corte por Plasma
+    image: corte-plasma.jpg
+    description: |
+      Corte plasma en alta definicion para tus proyectos con grandes espesores. Servicio rapido de dos a tres dias.
+  - title: Corte por Láser
+    image: corte-laser.jpg
+    description: |
+      Servio de corte láser de alta definicion para tus proyectos de ingenieria. Servicio rapido de dos a tres dias.
+  - title: Láser en Tubo
+    image: laser-tubo.jpg
+    description: |
+      Damos servicio de corte longitudinal en tubo a largo de hasta 5800mm.
+  - title: Curvadora de Tubo
+    image: curvadora-tubo.jpg
+    description: |
+      Podemor curvar tubos al radio que soliciten.
+  - title: Curvadora de Chapa
+    image: curvadora-chapa.jpg
+    description: |
+      Cilindrado de chapa para la elaboración de despósitos o curvas en superficie plana.
+  - title: Punzonadora
+    image: punzonadora.jpg
+    description: |
+      Fabricación de chapa con abocardado y perforada, redonda, cuadrada y ovalada medida, en todos los materiales y acabados.
+  - title: Mallas Electrosoldadas
+    image: malla-electrosoldada.jpg
+    description: |
+      Fabricación de mallas electrosoldadas en cuadrado o diagonal, en hierro y inoxidable.
+  - title: Transporte
+    image: transporte.jpg
+    description: |
+      Disponemos de amplia flota terrestre para entregar rápidamente en toda España y Portugal. También en cualquier parte del mundo gracias a acuerdos con agencias de trasnporte terrestre, marítimo y aéreo.

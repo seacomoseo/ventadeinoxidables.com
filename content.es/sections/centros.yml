@@ -1,0 +1,105 @@
+id: centros
+title: Centros
+subtitle: de trabajo
+color: light
+more:
+  flip_y: false
+  divider: arrow-side-rounded
+rows:
+- type: columns
+  design:
+    num: 4
+    color: white
+    ratio: 3x2
+    inset: true
+  items:
+  - title: Nave 1<br>**Principal**
+    subtitle: Polígono Industrial Oeste
+    link: https://g.page/r/CdqCrWU3S5cMEAg
+    label: Mapa
+    image: nave-avenida-principal-21-7-30169-murcia-exterior.jpg
+    icon: location-dot
+    description: |
+      Avenida Principal, 21-7<br>30169 Murcia
+    more:
+      ofuscate: true
+      licon: plus
+      icon_type: bottom
+      image_hover: nave-avenida-principal-21-7-30169-murcia-interior.jpg
+  - title: Nave 2<br>**Fábrica**
+    subtitle: Polígono Industrial Oeste
+    link: https://goo.gl/maps/un3djCEuiC9ZeUL77
+    label: Mapa
+    image: nave-avenida-principal-29-32-30169-murcia-exterior.jpg
+    icon: location-dot
+    description: |
+      Avenida Principal, 29-32<br>30169 Murcia
+    more:
+      ofuscate: true
+      licon: plus
+      icon_type: bottom
+      image_hover: nave-avenida-principal-29-32-30169-murcia-interior.jpg
+  - title: Nave 3<br>**Corte y Plegado**
+    subtitle: Polígono Industrial Oeste
+    link: https://g.page/r/Cf1VNQ9ayDIZEAE
+    label: Mapa
+    image: nave-av-francisco-salzillo-22-2-a-30169-murcia-exterior.jpg
+    icon: location-dot
+    description: |
+      Av. Francisco Salzillo, 22/2 A<br>30169 Murcia
+    more:
+      ofuscate: true
+      licon: plus
+      icon_type: bottom
+      image_hover: nave-av-francisco-salzillo-22-2-a-30169-murcia-interior.jpg
+  - title: Nave 4<br>**Almacén**
+    subtitle: Polígono Industrial Oeste
+    link: https://goo.gl/maps/BqhSXVoWzVNBE9pF7
+    label: Mapa
+    image: nave-calle-francisco-salzillo-5-30820-alcantarilla-murcia-exterior.png
+    icon: location-dot
+    description: |
+      Calle Francisco Salzillo, 5<br>30820 Alcantarilla, Murcia
+
+      2.000 m2 en construcción disponible en 2022
+    more:
+      ofuscate: true
+      licon: plus
+      icon_type: bottom
+- type: contact
+  data:
+  - type: address
+    active: false
+    name: Venta de Inoxidables, S.L.
+    streetAddress: Avenida Principal, 21/7
+    postalCode: 30169
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.193417,37.954059]}'
+    full: true
+  - type: address
+    active: false
+    name: Venta de Inoxidables, S.L.
+    streetAddress: Avenida Principal, 29/32
+    postalCode: 30169
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.182297,37.950407]}'
+    full: true
+  - type: address
+    active: false
+    name: Venta de Inoxidables, S.L.
+    streetAddress: Av. Francisco Salzillo, 22/2 A
+    postalCode: 30169
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.194033,37.952296]}'
+    full: true
+  map:
+    active: true
+    link: https://www.google.com/maps/d/edit?mid=1cay9onRZaVixtXRS6cngH5D37dp-FME&usp=sharing
+    iframe: https://www.google.com/maps/d/embed?mid=1cay9onRZaVixtXRS6cngH5D37dp-FME&ehbc=eeeeee
+    divider: ''

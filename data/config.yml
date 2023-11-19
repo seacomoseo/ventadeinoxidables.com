@@ -1,0 +1,40 @@
+title: Venta de Inoxidables, S.L.
+description: Fabricante y Distribuidor de artículos de Acero Inoxidable a nivel Nacional e Internacional.
+logo: logo.svg
+legal_name: Venta de Inoxidables, S.L.
+legal_dni: B73808230
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-4RBY9SD5BL
+google_site_verification: NMrfkL6eiCm-hhsFoczpj2GuX-UyJDtfDe1FshvxhPg
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: true
+cms: false
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+social:
+- link: https://g.page/r/CdqCrWU3S5cMEAg
+- link: https://www.facebook.com/ventadeinoxidables/
+- link: https://twitter.com/ventainoxidable
+- link: https://es.linkedin.com/company/venta-de-inoxidables
+

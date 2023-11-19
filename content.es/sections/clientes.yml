@@ -1,0 +1,19 @@
+id: clientes
+title: Clientes
+subtitle: Confían en nosotros
+color: light
+button: hide
+rows:
+- type: gallery
+  design:
+    max: 10
+    num: 5
+    gap: true
+    cover: false
+    grayscale: true
+  items:
+  - image: logo-elpozo.svg
+  - image: logo-talasur.svg
+  - image: logo-cristaleriamoreno.svg
+  - image: logo-courcieres.svg
+  - image: logo-franchy.svg

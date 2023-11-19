@@ -1,0 +1,32 @@
+baseURL: https://ventadeinoxidables.com
+Paginate: 25
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/inoxidables/ventadeinoxidables.com
+  netlify_name: inoxidables
+  netlify_id: 0b775d1a-b737-4a66-a3bd-2848412c665c
+  drive_link: https://drive.google.com/file/d/1-LV4NZSl_z4Joly_pMky9pFrCPaaYiJB
+  drive_mails: ventadeinoxidables@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

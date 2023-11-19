@@ -1,0 +1,9 @@
+{{/*  PROCESS CATALOGUE IMAGES  */}}
+{{- $src := slice -}}
+{{- with readDir "assets/media" -}}
+  {{- range . -}}
+    {{- if .Name | findRE `^catalogo-.*\.jpg` -}}
+      {{- $src = (resources.Get (print "/media/" .Name)).Permalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
