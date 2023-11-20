@@ -1,5 +1,6 @@
 more:
   divider: arrow-side-rounded
+  flip_y: true
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

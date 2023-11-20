@@ -102,4 +102,4 @@ rows:
     active: true
     link: https://www.google.com/maps/d/edit?mid=1cay9onRZaVixtXRS6cngH5D37dp-FME&usp=sharing
     iframe: https://www.google.com/maps/d/embed?mid=1cay9onRZaVixtXRS6cngH5D37dp-FME&ehbc=eeeeee
-    divider: ''
+    # divider: ''
