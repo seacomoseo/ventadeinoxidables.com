@@ -4,13 +4,13 @@ subtitle: Confían en nosotros
 color: light
 button: hide
 rows:
-- type: gallery
+- type: columns
   design:
-    max: 10
     num: 5
-    gap: true
-    cover: false
+    num_xs: true
+    gap: 2
     grayscale: true
+    ratio: 2x1
   items:
   - image: logo-elpozo.svg
   - image: logo-talasur.svg
