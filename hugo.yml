@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/inoxidables/ventadeinoxidables.com
   netlify_name: inoxidables
   netlify_id: 0b775d1a-b737-4a66-a3bd-2848412c665c
+  hook: NjJmOTUzNjdlYjIyMzcyN2FjYzJhY2Ni
   drive_link: https://drive.google.com/file/d/1-LV4NZSl_z4Joly_pMky9pFrCPaaYiJB
   drive_mails: ventadeinoxidables@gmail.com
 defaultContentLanguage: es
