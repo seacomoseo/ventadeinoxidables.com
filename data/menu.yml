@@ -10,19 +10,19 @@ show_modals: false
 show_blog_auto: false
 show_products_auto: false
 show_taxonomies_auto: false
-search: true
+search: false
 google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true
 callnow_buttons: []
 normal: []
-more:
-- link: /blog/
-  icon: rss
-  label: Blog
-- link: /catalogo/
-  icon: clipboard-list
-  label: Catálogo
-  ofuscate: true
-  button: link
+more: []
+# - link: /blog/
+#   icon: rss
+#   label: Blog
+# - link: /catalogo/
+#   icon: clipboard-list
+#   label: Catálogo
+#   ofuscate: true
+#   button: link
