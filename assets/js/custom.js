@@ -1,3 +1,5 @@
+import { scrollShot } from './scroll-shot.js'
+
 // AVISO
 const popup = document.getElementById('aviso')
 if (popup) {
