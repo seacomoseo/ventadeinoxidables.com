@@ -18,7 +18,7 @@ disqus: ''
 cookies_legal: false
 analytics_pagespeed: true
 process_all_images: true
-cms: false
+cms: true
 cms_editorial_workflow: false
 development: false
 custom_code:

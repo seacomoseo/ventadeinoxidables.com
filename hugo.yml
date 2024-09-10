@@ -3,7 +3,7 @@ Paginate: 25
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/inoxidables/ventadeinoxidables.com
+  git_url: https://github.com/seacomoseo/ventadeinoxidables.com
   netlify_name: inoxidables
   netlify_id: 0b775d1a-b737-4a66-a3bd-2848412c665c
   hook: NjJmOTUzNjdlYjIyMzcyN2FjYzJhY2Ni
