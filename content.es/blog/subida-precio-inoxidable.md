@@ -9,7 +9,7 @@ toc: false
 draft: false
 noindex: false
 date: 2022-03-17
-lastmod: ''
+# lastmod: ''
 translationKey: subida-precio-inoxidable
 ---
 El verdadero motivo no se rige solo a un factor y tampoco se ha gestado en un periodo corto de tiempo. Te explico porque:

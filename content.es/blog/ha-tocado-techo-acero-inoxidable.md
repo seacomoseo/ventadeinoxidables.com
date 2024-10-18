@@ -10,7 +10,7 @@ toc: false
 draft: false
 noindex: false
 date: 2022-06-07
-lastmod: ''
+# lastmod: ''
 translationKey: ¿Ha tocado techo el acero inoxidable?
 ---
 ¿Han tocado techo los metales? La sensación en el mercado es que si ya que la poca demanda por el precio alcanzado ha hecho que se ralentizara la demanda de los metales, ¿pero es cierto? lo vemos a continuación:
