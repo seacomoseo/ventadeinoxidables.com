@@ -1,0 +1,107 @@
+# blog
+
+- { from: https://blog.almacendeacero.com/* , to: https://ventadeinoxidables.com/blog/:splat }
+- { from: http://blog.almacendeacero.com/* , to: https://ventadeinoxidables.com/blog/:splat }
+- { from: /blog/2015/03/ , to: /blog/ }
+- { from: /blog/2015/03/31/ , to: /blog/ }
+- { from: /blog/2015/04/ , to: /blog/ }
+- { from: /blog/2015/04/21/ , to: /blog/ }
+- { from: /blog/2015/04/28/ , to: /blog/ }
+- { from: /blog/2015/04/29/ , to: /blog/ }
+- { from: /blog/2015/05/ , to: /blog/ }
+- { from: /blog/2015/05/28/ , to: /blog/ }
+- { from: /blog/2015/06/ , to: /blog/ }
+- { from: /blog/2015/06/12/ , to: /blog/ }
+- { from: /blog/2015/06/22/ , to: /blog/ }
+- { from: /blog/2015/07/ , to: /blog/ }
+- { from: /blog/2015/07/02/ , to: /blog/ }
+- { from: /blog/2015/07/22/ , to: /blog/ }
+- { from: /blog/2015/08/ , to: /blog/ }
+- { from: /blog/2015/08/07/ , to: /blog/ }
+- { from: /blog/2015/10/ , to: /blog/ }
+- { from: /blog/2015/10/08/ , to: /blog/ }
+- { from: /blog/2015/10/24/ , to: /blog/ }
+- { from: /blog/2015/12/ , to: /blog/ }
+- { from: /blog/2015/12/16/ , to: /blog/ }
+- { from: /blog/2016/02/ , to: /blog/ }
+- { from: /blog/2016/02/05/ , to: /blog/ }
+- { from: /blog/2016/03/ , to: /blog/ }
+- { from: /blog/2016/03/17/ , to: /blog/ }
+- { from: /blog/2016/12/ , to: /blog/ }
+- { from: /blog/2016/12/07/ , to: /blog/ }
+- { from: /blog/2018/10/ , to: /blog/ }
+- { from: /blog/2018/10/04/ , to: /blog/ }
+- { from: /blog/2019/05/ , to: /blog/ }
+- { from: /blog/2019/05/03/ , to: /blog/ }
+- { from: /blog/category/acero-inoxidable/ , to: /blog/ }
+- { from: /blog/category/almacen-de-acero-inoxidable/ , to: /blog/ }
+- { from: /blog/category/almacen-de-acero-inoxidable/page/2/ , to: /blog/ }
+- { from: /blog/category/productos-acero-inoxidable/ , to: /blog/ }
+- { from: /blog/page/2/ , to: /blog/pag/2/ }
+- { from: /blog/author/administrador/ , to: /aut/admin/ }
+- { from: /blog/author/administrador/page/2/ , to: /aut/admin/ }
+- { from: /blog/comments/feed/ , to: /feed.xml }
+- { from: /blog/comparativa-acabados-respecto-competencia.html , to: /comparativa-acabados-respecto-competencia/ }
+- { from: /blog/envios-exportacion-export-stainless-steel.html , to: /envios-exportacion-export-stainless-steel/ }
+- { from: /blog/fleje-de-acero-inoxidable-0-6mm.html , to: /fleje-de-acero-inoxidable-0-6mm/ }
+- { from: /blog/perfil-upn-y-ipn-en-acero-inoxidable.html , to: /perfil-upn-y-ipn-en-acero-inoxidable/ }
+- { from: /blog/frabricacion-de-chapa-perforada-1mm-aisi-316.html , to: /frabricacion-de-chapa-perforada-1mm-aisi-316/ }
+- { from: /blog/category/almacen-de-acero-inoxidable/ , to: /category/almacen-de-acero/ }
+- { from: /blog/no-cerramos-en-verano.html , to: /no-cerramos-en-verano/ }
+- { from: /blog/fabricacion-de-rejilla-de-20mm-aisi-304l.html , to: /fabricacion-de-rejilla-de-20mm-aisi-304l/ }
+- { from: /blog/la-solucion-a-las-decoloraciones-de-las-soldaduras.html , to: /la-solucion-a-las-decoloraciones-de-las-soldaduras/ }
+- { from: /blog/fabricacion-de-chapa-repujada-en-inoxidable-304-3mm.html , to: /fabricacion-de-chapa-repujada-en-inoxidable-304-3mm/ }
+- { from: /blog/seguimos-el-arranque-de-ano-con-mucha-fuerza.html , to: /seguimos-el-arranque-de-ano-con-mucha-fuerza/ }
+- { from: /blog/barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife.html , to: /barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife/ }
+- { from: /blog/la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china.html , to: /la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china/ }
+- { from: /blog/* , to: /:splat }
+
+## blog imgs
+
+- { from: /wp-content/uploads/2015/03/Captura-de-pantalla-2015-03-31-a-las-07.27.59-300x88.png , to: /media/posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png }
+- { from: /wp-content/uploads/2015/04/FOTO-6.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-6.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-7.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-7.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-8.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-8.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-9.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-9.jpg }
+- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071-300x199.jpg , to: /media/produccion-aceroinoxidable-china123rf-3071.jpg }
+- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071.jpg , to: /media/produccion-aceroinoxidable-china123rf-3071.jpg }
+- { from: /wp-content/uploads/2015/04/Tig-Brush.png , to: /media/tig-brush.png }
+- { from: /wp-content/uploads/2015/04/unnamed-1-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-1.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed-2-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-2.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed-4-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-4.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife.jpg }
+- { from: /wp-content/uploads/2015/05/FOTO-REJILLA-20MM-2.jpg , to: /media/foto-rejilla-20mm-2.jpg }
+- { from: /wp-content/uploads/2015/06/Perf-10mm-316-1mm.jpg , to: /media/perf-10mm-316-1mm.jpg }
+- { from: /wp-content/uploads/2015/06/TUBO-273-4.jpg , to: /media/tubo-273-4.jpg }
+- { from: /wp-content/uploads/2015/07/la-foto-1-300x225.jpg , to: /media/fleje-de-acero-inoxidable-0-6mm.jpg }
+- { from: /wp-content/uploads/2015/07/tubo-50.8-repulido-225x300.jpg , to: /media/tubo-50.8-repulido.jpg }
+- { from: /wp-content/uploads/2015/08/Chapa-repujada-inox-3mm-225x300.jpg , to: /media/chapa-repujada-inox-3mm.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-1-300x225.jpg , to: /media/envio-export-1.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-2-300x225.jpg , to: /media/envio-export-2.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-3-300x225.jpg , to: /media/envio-export-3.jpg }
+- { from: /wp-content/uploads/2015/10/UPN-Y-IPN-300x291.jpg , to: /media/upn-y-ipn.jpg }
+- { from: /wp-content/uploads/2015/12/Comparativa-acabado-300x300.jpg , to: /media/comparativa-acabado-pulido-acero-inox.jpg }
+- { from: /wp-content/uploads/2016/02/acero-empresa-300x180.jpg , to: /media/acero-empresa.jpg }
+- { from: /wp-content/uploads/2016/03/IMG_3632-1024x768.jpg , to: /media/reparto-camion-inox.jpg }
+- { from: /wp-content/uploads/2016/12/FullSizeRender-1024x768.jpg , to: /media/fullsizerender.jpg }
+- { from: /wp-content/uploads/2019/05/700x420_arcelor-mittal-recorte-beneficio.jpg , to: /media/arcelor-mittal-recorte-beneficio.jpg }
+
+# pages
+
+- { from: /cookies.php , to: /legal/#politica-de-cookies }
+- { from: /warning.php , to: /legal/ }
+- { from: /privacy.php , to: /legal/ }
+- { from: /contact-section.php , to: /legal/#politica-de-proteccion-de-datos }
+
+# imgs
+
+- { from: /assets/images/logo2.jpg , to: /media/logo.png }
+- { from: /assets/images/slide-1.jpg , to: /media/ciudad-de-acero-inoxidable.jpg }
+- { from: /assets/images/slide-2.jpg , to: /media/fondo.jpg }
+- { from: /assets/images/slide-3.jpg , to: /media/acero-inoxidable.jpg }
+- { from: /assets/images/pulidos.png , to: /media/pulidos.jpg }
+- { from: /assets/images/plegado.jpg , to: /media/plegado.jpg }
+- { from: /assets/images/corte.jpg , to: /media/corte.jpg }
+- { from: /assets/images/ace-box-icon.jpg , to: / }
+- { from: /assets/images/Lock-icon.png , to: / }
+- { from: /assets/images/nexus-garantia.jpg , to: / }

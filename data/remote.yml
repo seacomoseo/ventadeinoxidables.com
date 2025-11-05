@@ -1,0 +1,28 @@
+- src: https://docs.google.com/spreadsheets/d/e/2PACX-1vS7DpRA0yFWry14PM-St_fPsEUScZXm_bCjTySbTfefXOT2M2f3u8cB3gdcfbsRT6Q0CKz3isfsBQmL/pub?gid=552133776&single=true&output=csv
+  csv: y
+  lang: es
+  types:
+  - type: product
+    pairings:
+    - to: title
+    - from: id
+      to: slug
+    - to: image
+    - from: parent
+      to: category
+    - to: noindex
+    - to: content
+- src: https://docs.google.com/spreadsheets/d/e/2PACX-1vS7DpRA0yFWry14PM-St_fPsEUScZXm_bCjTySbTfefXOT2M2f3u8cB3gdcfbsRT6Q0CKz3isfsBQmL/pub?gid=2046008614&single=true&output=csv
+  csv: y
+  lang: es
+  types:
+  - type: category
+    pairings:
+    - to: title
+    - from: id
+      to: slug
+    - to: image
+    - from: parent
+      to: category
+    - to: noindex
+    - to: content

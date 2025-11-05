@@ -1,2 +1,7 @@
-send-check:
-  other: He leído y acepto la [Política de Privacidad](/privacidad/ "_blank") y [Cláusula de Protección de Datos](/privacidad/#formularios "_blank").
+# cookies
+cookies_message: '**Usamos cookies** propias y de terceros para fines analíticos y para mostrarte publicidad personalizada según un perfil elaborado a partir de tus hábitos de navegación. Puedes aceptar todas, rechazarlas o configurar tus preferencias.'
+cookies_read_more: Política de Cookies
+cookies_config: Configurar
+cookies_save: Guardar selección
+cookies_reject: Rechazar Todas
+cookies_accept: Aceptar Todas

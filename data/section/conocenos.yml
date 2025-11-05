@@ -1,0 +1,52 @@
+name: Conocenos
+id: conocenos
+title: Conócenos
+subtitle: Venta de Inoxidables, S.L.
+color: white
+box:
+  cols: 2
+boxes:
+- image: fondo.jpg
+- link: '#conocenos-mas'
+  md: |
+    Venta de inoxidables ha nacido con la intencion de satisfacer las necesidades de nuestros clientes tanto actuales como potenciales, para ello contamos con un equipo humano de profesionales, cada uno especializado en su terreno, con el fin de brindar a nuestro cliente una experiencia enriquecedora.
+  align: left
+  align_y: center
+modal:
+  color: white
+  caps: y
+  line: y
+modals:
+- id: conocenos-mas
+  title: Valores como empresa
+  subtitle: Venta de Inoxidables, S.L.
+  size: md
+  box:
+    cols: 2
+  boxes:
+  - bi: acero-inoxidable.jpg
+    align_y: strech
+  - md: |
+      Nuestra filosofía de empresa es sencilla: satisfacer a nuestro cliente por encima de todo. Para ello os detallamos un poco acerca de nuestros valores principales:
+
+      - ::check:: Profesionalidad
+      - ::check:: Seriedad
+      - ::check:: Versatilidad
+      - ::check:: Seguridad en compras
+      - ::check:: Confianza
+      - ::check:: Honestidad
+      - ::check:: Espíritu de cooperación
+    align: left
+    align_y: center
+  - order: 3
+    bi: fondo.jpg
+    align_y: strech
+  - order: 1
+    link: '#contacto'
+    label: Contacto
+    md: |
+      Para cualquier duda acerca de nuestros productos o servicios, puede contactar con nostros mediante teléfono fijo, móvil, WhatsApp, email o formulario de contacto. Con gusto le atenderemos lo antes posible.
+    align: left
+    align_y: center
+    align_vl: right
+    pin: none

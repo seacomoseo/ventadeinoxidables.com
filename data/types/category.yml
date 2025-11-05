@@ -1,0 +1,23 @@
+base: page
+weight: 3
+name: category
+tax_of:
+- name: product
+  multiple: n
+  breadcrumbs: y
+  schema: articleSection
+- name: category
+  multiple: n
+  breadcrumbs: y
+tpl:
+  list:
+    cols: 4
+    cols_vs: 2
+    align: center
+    image: fondo.jpg
+    ratio: 1/1
+    hs: 4
+    md: hide
+    label: Más
+    button: cta
+    pin: add

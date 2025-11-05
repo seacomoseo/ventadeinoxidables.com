@@ -1,0 +1,38 @@
+name: Contacto
+id: contacto
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+color: white
+size: sm
+menu_button: cta
+contact:
+- type: schedule
+  days: Lunes a Viernes
+  hours: 8:00-13:30 + 15:30-19:30
+- type: schedule
+  days: Sábados
+  hours: 9:00-13:00
+- type: br
+- type: phone
+  label: 968 88 32 38
+- type: phone
+  label: 673 70 47 24
+- type: whatsapp
+  label: 673 70 47 24
+- type: mail
+  label: ventas@ventadeinoxidables.com
+  full: y
+  button: light
+form:
+  icon: hide
+  consent: He leído y acepto la [Política de Privacidad](/privacidad/ "[_blank]") y [Cláusula de Protección de Datos](/privacidad/#formularios "[_blank]").
+inputs:
+- type: text
+  name: Nombre
+  required: y
+- type: email
+  name: Email
+  required: y
+- type: textarea
+  name: Mensaje
+  required: y

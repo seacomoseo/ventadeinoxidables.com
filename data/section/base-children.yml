@@ -1,0 +1,20 @@
+name: Base ➡️ Lista de Páginas
+node: nav
+if: children
+id: lists
+size: xl
+pt: 0
+boxes:
+- if: collection
+  list:
+    type: '{{ type }}'
+  box:
+    cols: 5
+- if: taxonomy
+  params:
+  - from: filename
+    to: list.{{ type }}
+  list:
+    type: all
+  box:
+    cols: 5

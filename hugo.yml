@@ -1,35 +1,11 @@
 baseURL: https://ventadeinoxidables.com
-Paginate: 25
-buildFuture: false
+buildFuture: n
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/ventadeinoxidables.com
-  netlify_name: inoxidables
+  domain: ventadeinoxidables.com
+  name: inoxidables
   netlify_id: 0b775d1a-b737-4a66-a3bd-2848412c665c
-  hook: NjJmOTUzNjdlYjIyMzcyN2FjYzJhY2Ni
+  netlify_hook: NjJmOTUzNjdlYjIyMzcyN2FjYzJhY2Ni
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1-LV4NZSl_z4Joly_pMky9pFrCPaaYiJB
   drive_mails: ventadeinoxidables@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en,fr]
-languages:
-  es:
-    paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: personalizadas

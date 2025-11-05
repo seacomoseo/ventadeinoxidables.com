@@ -1,0 +1,14 @@
+name: Noticias
+id: noticias
+title: Noticias
+subtitle: Novedades
+color: light
+list:
+  type: blog
+  max: 4
+box:
+  cols: 4
+  color: white
+  slider: y
+pin: add
+link: /blog/

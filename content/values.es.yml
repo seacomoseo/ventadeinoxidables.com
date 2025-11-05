@@ -1,0 +1,23 @@
+menu:
+  image: base/logo-alt.svg
+  items:
+  - label: Catálogo
+    link: /catalogo/
+    button: dark
+footer:
+  space: 2
+  dots:
+  - link: https://g.page/r/CdqCrWU3S5cMEAg
+  - link: https://www.facebook.com/ventadeinoxidables/
+  - link: https://twitter.com/ventainoxidable
+  - link: https://es.linkedin.com/company/venta-de-inoxidables
+  div: arrow-side-round
+  div_y: y
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::support::          [Ayudas](/ayudas/)
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

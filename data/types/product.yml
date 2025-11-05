@@ -1,0 +1,17 @@
+base: page
+weight: 4
+name: product
+icon: box
+related: y
+tpl:
+  list:
+    cols: 4
+    cols_vs: 2
+    align: center
+    image: fondo.jpg
+    ratio: 1/1
+    hs: 6
+    md: hide
+    label: Más
+    button: cta
+    pin: add

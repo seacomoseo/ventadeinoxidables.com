@@ -1,28 +1,41 @@
 {
-  "name": "sansoul.es",
-  "version": "1.0.0",
-  "description": "SanSoul is the Hugo theme website services soul by lorensansol",
+  "name": "ventadeinoxidables.com",
+  "version": "4.0.0",
+  "type": "module",
   "dependencies": {
+    "material-symbols": "^0.34.1",
+    "@fortawesome/fontawesome-free": "^7.0.1",
     "@fullhuman/postcss-purgecss": "^6.0.0",
-    "autoprefixer": "^10.4.19",
-    "cssnano": "^7.0.4",
     "postcss": "^8.4.40",
-    "postcss-cli": "^11.0.0",
-    "purgecss": "^6.0.0"
+    "purgecss": "^6.0.0",
+    "sharp": "^0.33.5",
+    "sharp-ico": "^0.1.5"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npx http-server public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorensansol/sansoul.es.git"
+    "url": "git+https://github.com/seacomoseo/sansoul.es.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lorensansol/sansoul.es/issues"
+    "url": "https://github.com/seacomoseo/sansoul.es/issues"
   },
-  "homepage": "https://github.com/lorensansol/sansoul.es"
+  "homepage": "https://github.com/seacomoseo/sansoul.es",
+  "standard": {
+    "env": [
+      "browser"
+    ],
+    "globals": [
+      "googleAnalytics",
+      "gtag",
+      "SimpleLightbox",
+      "MathJax",
+      "L"
+    ]
+  }
 }

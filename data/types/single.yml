@@ -1,0 +1,19 @@
+title: Únicas
+weight: 0
+base: single
+tpl:
+  menu:
+    logo: n
+    sticky: auto
+    size: lg
+    auto: same
+  callnow: auto
+  section:
+  - size: lg
+    caps: y
+    line: y
+    parallax: fix
+    div: arrow-side-round
+    div_y: y
+  - div_x: y
+    div_y: n

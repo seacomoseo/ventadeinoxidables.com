@@ -1,0 +1,25 @@
+name: Sectores
+id: sectores
+title: Sectores
+subtitle: Con los que trabajamos
+color: white
+menu_button: hide
+box:
+  cols: 4
+boxes:
+- title: Industrial
+  icon: factory
+  md: |
+    Nuestro conjunto de productos y servicios en diferentes calidades de acero inoxidable hacen poder satisfacer cualquier necesidad que demande.
+- title: Decoración
+  icon: auto_fix_high
+  md: |
+    Gracias a nuestras maquinas damos el mejor acabado superficial y servicio al cliente, pudiéndole ofrecer cualquier producto tanto en largo como accesorio en AISI 304 y AISI 316.
+- title: Alimentario
+  icon: restaurant
+  md: |
+    Disponibilidad de productos DIN 11850 – 11851 y CLAMP destinados especialmente para esta área.
+- title: Náutico
+  icon: anchor
+  md: |
+    Nuestros diferentes procesos logran un pulido náutico en cualquier clase de material (AISI 316), además de disponer una amplia gama en accesorio náutico y tornilleria A4.

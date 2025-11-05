@@ -1,0 +1,10 @@
+base: article
+weight: 2
+name: blog
+related: y
+tpl:
+  list:
+    md: hide
+    tags:
+    - type: date
+    - type: time

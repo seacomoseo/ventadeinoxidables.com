@@ -1,0 +1,49 @@
+name: Fabricacion
+id: fabricacion
+title: Fabricación
+subtitle: Personalizada
+color: light
+box:
+  cols: 4
+  color: white
+  ratio: 3/2
+  inset: y
+  line: y
+  hs: 4
+boxes:
+- title: Pulido <br> Automático
+  image: pulido-satinado-automatico.jpg
+  md: Contamos con 10 maquinas automaticas de fabricacion de acabado tanto exterior como interior para dar al cliente el servicio exclusivo que necesita.
+- title: Pulido de <br> Chapa
+  image: pulido-satinado-chapa.jpg
+  md: Fabricamos acabado pulido y satinado en superficies planas y añadimos el plastificado que dese el cliente.
+- title: Pulido de <br> Accesorios
+  image: pulido-interior-exterior-accesorios.jpg
+  md: Fabricamos todo tipo de acabados en el accesosorio dejando la rugosidad RA como soliciten y cabibrándolo con nuestro rugosímetro para optener la mayor calidad deseada.
+- title: Corte y <br> Plegado
+  image: corte-plegado.jpg
+  md: Disponemos de tres maquinas de corte y plegado de hasta 6 metros de longitud para un servicio rapido de tus pedidos a medida.
+- title: Corte por <br> Plasma
+  image: corte-plasma.jpg
+  md: Corte plasma en alta definicion para tus proyectos con grandes espesores. Servicio rapido de dos a tres dias.
+- title: Corte por <br> Láser
+  image: corte-laser.jpg
+  md: Servio de corte láser de alta definicion para tus proyectos de ingenieria. Servicio rapido de dos a tres dias.
+- title: Láser en <br> Tubo
+  image: laser-tubo.jpg
+  md: Damos servicio de corte longitudinal en tubo a largo de hasta 5800mm.
+- title: Curvadora de <br> Tubo
+  image: curvadora-tubo.jpg
+  md: Podemor curvar tubos al radio que soliciten.
+- title: Curvadora de <br> Chapa
+  image: curvadora-chapa.jpg
+  md: Cilindrado de chapa para la elaboración de despósitos o curvas en superficie plana.
+- title: Punzonadora
+  image: punzonadora.jpg
+  md: Fabricación de chapa con abocardado y perforada, redonda, cuadrada y ovalada medida, en todos los materiales y acabados.
+- title: Mallas <br> Electrosoldadas
+  image: malla-electrosoldada.jpg
+  md: Fabricación de mallas electrosoldadas en cuadrado o diagonal, en hierro y inoxidable.
+- title: Transporte
+  image: transporte.jpg
+  md: Disponemos de amplia flota terrestre para entregar rápidamente en toda España y Portugal. También en cualquier parte del mundo gracias a acuerdos con agencias de trasnporte terrestre, marítimo y aéreo.

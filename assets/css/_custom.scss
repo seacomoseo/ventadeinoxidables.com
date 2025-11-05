@@ -1,7 +1,13 @@
+// Logo
+
+.logo__link:not(.aux) {
+  background-image: none;
+}
+
 // Header
 
-#body-inicio #header {
-  .contact__data {
+#body-home #header {
+  .contact {
     animation: show-from .5s 1.25s both;
   }
 }
@@ -10,47 +16,22 @@
 // Sections
 
 #centros {
-  h3 > strong {
-    color: $grey;
+  .box__title > strong {
+    color: $gray;
   }
-}
-.contact__form-button {
-  svg {
-    display: none;
-  }
-}
-.logo__link:not(.aux) {
-  background-image: none;
 }
 
-// .custom-modal {
-//   .image {
-//     width: 16em;
-//     padding-bottom: 16em;
-//     margin: 0 auto;
-//   }
-// }
-table {
-  margin-left: auto;
-  white-space: unset;
-}
-.type-categories {
-  .article__figure {
-    display: none;
-  }
+.box__title--list,
+.type-category h1 ~ .box .image {
+  display: none;
 }
 
 // Ayudas
 
-#body-ayudas {
-  .image--border {
-      background-color: initial;
-  }
-  .image__inner {
-    background-image: none;
-  }
-  .content__figure {
+#body-page-ayudas {
+  .md__figure {
     display: inline-block;
-    width: fluid-size(288px, 330px);
+    margin-inline: .5em;
+    @include fluid-size(width, 1px, 288, 330);
   }
 }
