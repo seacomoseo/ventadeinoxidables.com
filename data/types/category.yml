@@ -14,7 +14,7 @@ tpl:
     cols: 4
     cols_vs: 2
     align: center
-    image: fondo.jpg
+    image: catalogo-accesorio-alimentacion.jpg
     ratio: 1/1
     hs: 4
     md: hide

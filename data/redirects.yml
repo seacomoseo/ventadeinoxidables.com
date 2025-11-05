@@ -54,7 +54,7 @@
 - { from: /blog/seguimos-el-arranque-de-ano-con-mucha-fuerza.html , to: /seguimos-el-arranque-de-ano-con-mucha-fuerza/ }
 - { from: /blog/barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife.html , to: /barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife/ }
 - { from: /blog/la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china.html , to: /la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china/ }
-- { from: /blog/* , to: /:splat }
+- { from: /blog/*/ , to: /:splat/ }
 
 ## blog imgs
 
