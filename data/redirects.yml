@@ -38,8 +38,8 @@
 - { from: /blog/category/almacen-de-acero-inoxidable/page/2/ , to: /blog/ }
 - { from: /blog/category/productos-acero-inoxidable/ , to: /blog/ }
 - { from: /blog/page/2/ , to: /blog/pag/2/ }
-- { from: /blog/author/administrador/ , to: /aut/admin/ }
-- { from: /blog/author/administrador/page/2/ , to: /aut/admin/ }
+- { from: /blog/author/administrador/ , to: /autor/admin/ }
+- { from: /blog/author/administrador/page/2/ , to: /autor/admin/ }
 - { from: /blog/comments/feed/ , to: /feed.xml }
 - { from: /blog/comparativa-acabados-respecto-competencia.html , to: /comparativa-acabados-respecto-competencia/ }
 - { from: /blog/envios-exportacion-export-stainless-steel.html , to: /envios-exportacion-export-stainless-steel/ }
@@ -54,6 +54,7 @@
 - { from: /blog/seguimos-el-arranque-de-ano-con-mucha-fuerza.html , to: /seguimos-el-arranque-de-ano-con-mucha-fuerza/ }
 - { from: /blog/barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife.html , to: /barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife/ }
 - { from: /blog/la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china.html , to: /la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china/ }
+- { from: /aut/admin/ , to: /autor/admin/ }
 
 ## blog imgs
 
@@ -87,10 +88,10 @@
 
 # pages
 
-- { from: /cookies.php , to: /legal/#politica-de-cookies }
+- { from: /cookies.php , to: /cookies/ }
 - { from: /warning.php , to: /legal/ }
-- { from: /privacy.php , to: /legal/ }
-- { from: /contact-section.php , to: /legal/#politica-de-proteccion-de-datos }
+- { from: /privacy.php , to: /privacidad/ }
+- { from: /contact-section.php , to: /privacidad/ }
 
 # imgs
 
