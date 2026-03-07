@@ -6,8 +6,12 @@ boxes:
   sub: Venta de Inoxidables, S.L.
   box:
     cols: 2
+    gap: 4
   boxes:
-  - get:
+  - ratio: 4/3
+    get:
+    - from: about.vid
+      to: vid
     - from: about.img
       to: img
   - url: '#conocenos-mas'

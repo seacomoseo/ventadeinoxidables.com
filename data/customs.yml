@@ -22,6 +22,7 @@
   label: Conócenos
   widget: dict
   sub:
+  - var: vid
   - var: img
   - var: md
   - name: modal
