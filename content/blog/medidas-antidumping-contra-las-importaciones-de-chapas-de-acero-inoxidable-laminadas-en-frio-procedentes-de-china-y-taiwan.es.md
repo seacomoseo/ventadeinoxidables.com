@@ -1,10 +1,10 @@
 ---
 title: Medidas antidumping contra las importaciones de chapas de acero inoxidable
 slug: medidas-antidumping-contra-las-importaciones-de-chapas-de-acero-inoxidable-laminadas-en-frio-procedentes-de-china-y-taiwan
-image: produccion-aceroinoxidable-china123rf-3071.jpg
+img: /u/produccion-aceroinoxidable-china123rf-3071.jpg
 author: admin
-date: 2015-04-21
-lastmod: 2015-08-07
+date: 2015-04-21 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 Tras la reclamación presentada por la industria europea, agrupada en
 **[Eurofer](http://www.metalesymetalurgia.com/?s=Eurofer)**, la **Comisión

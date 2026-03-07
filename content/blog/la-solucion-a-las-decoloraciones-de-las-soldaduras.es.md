@@ -1,10 +1,10 @@
 ---
 title: La solución a las decoloraciones de las soldaduras - Tig Brush
 slug: la-solucion-a-las-decoloraciones-de-las-soldaduras
-image: tig-brush.png
+img: /u/tig-brush.png
 author: admin
-date: 2015-04-29
-lastmod: 2015-08-07
+date: 2015-04-29 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 **El Tig Brush acaba con los óxidos férricos y ferrosos de las soldaduras en
 acero inoxidable**

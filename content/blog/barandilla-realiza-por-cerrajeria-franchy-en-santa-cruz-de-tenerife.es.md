@@ -1,10 +1,10 @@
 ---
 title: Barandilla realiza por Cerrajeria Franchy en Santa Cruz de Tenerife
 slug: barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife
-image: barandilla-franchy-santa-cruz-de-tenerife.jpg
+img: /u/barandilla-franchy-santa-cruz-de-tenerife.jpg
 author: admin
-date: 2015-04-28
-lastmod: 2015-08-07
+date: 2015-04-28 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 A principio de año quedo inaugurada la barandilla realizada por Cerrajeria
 Franchy en el Puerto de La Cruz, Tenerife, donde pudimos colaborar con ellos
@@ -21,10 +21,10 @@ Murcia a Santa Cruz de Tenerife en un tiempo de 1 semana.
 En las siguientes fotos pueden ver el espectacular trabajo realizado por
 Cerrajeria Franchy.
 
-![](barandilla-franchy-santa-cruz-de-tenerife-1.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-2.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-4.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-6.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-7.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-8.jpg)
-![](barandilla-franchy-santa-cruz-de-tenerife-9.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-1.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-2.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-4.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-6.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-7.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-8.jpg)
+![](/u/barandilla-franchy-santa-cruz-de-tenerife-9.jpg)

@@ -1,10 +1,10 @@
 ---
 title: Frabricacion de chapa perforada 1mm Aisi 316
 slug: frabricacion-de-chapa-perforada-1mm-aisi-316
-image: perf-10mm-316-1mm.jpg
+img: /u/perf-10mm-316-1mm.jpg
 author: admin
-date: 2015-06-22
-lastmod: 2015-08-07
+date: 2015-06-22 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 Fabricación de chapa perforada en formato 2000×1000 grosor 1mm calidad AISI
 316 acabado brillo una cara.

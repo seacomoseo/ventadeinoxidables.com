@@ -1,10 +1,10 @@
 ---
 title: Arcelor y Acerinox sufren recortes del 20% en el beneficio de 2019 y 2020
 slug: no-cerramos-en-verano
-image: arcelor-mittal-recorte-beneficio.jpg
+img: /u/arcelor-mittal-recorte-beneficio.jpg
 author: admin
-date: 2019-05-03
-lastmod: 2019-05-04
+date: 2019-05-03 00:00:00
+mod: 2019-05-04 00:00:00
 ---
 1. [Laura de la
 Quintana](https://www.eleconomista.es/autor/Laura-de-la-Quintana)
@@ -33,7 +33,7 @@ menor beneficio desde 2016. Ganará en 2019 unos 1.100 millones de euros
 menos que en 2018, sobre los 3.240 millones a cierre de ejercicio, después
 de que, desde el 1 de enero, las estimaciones se hayan desplomado un 22%.
 
-![](arcelor-acerinox-recortes-de-beneficio.gif)
+![](/u/arcelor-acerinox-recortes-de-beneficio.gif)
 
 ### Recortes de beneficio en ArcelorMittal y Acerinox
 

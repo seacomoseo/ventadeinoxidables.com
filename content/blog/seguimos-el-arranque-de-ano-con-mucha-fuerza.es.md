@@ -1,10 +1,10 @@
 ---
 title: Seguimos el arranque de año con mucha fuerza
 slug: seguimos-el-arranque-de-ano-con-mucha-fuerza
-image: reparto-camion-inox.jpg
+img: /u/reparto-camion-inox.jpg
 author: admin
-date: 2016-03-17
-lastmod: 2016-03-17
+date: 2016-03-17 00:00:00
+mod: 2016-03-17 00:00:00
 ---
 Seguimos el arranque de año con mucha fuerza, gracias a nuestra
 competitividad, servicios y profesionalidad hacen que tengamos clientes en

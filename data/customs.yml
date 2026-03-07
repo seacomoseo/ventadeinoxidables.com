@@ -1,0 +1,73 @@
+- name: header
+  label: Cabecera
+  widget: dict
+  sub:
+  - var: links
+
+- name: products
+  label: Productos
+  widget: dict
+  sub:
+  - var: md
+
+- name: fabrication
+  label: Fabricación
+  widget: slice
+  sub:
+  - var: title
+  - var: img
+  - var: md
+
+- name: about
+  label: Conócenos
+  widget: dict
+  sub:
+  - var: img
+  - var: md
+  - name: modal
+    label: Ventana Modal
+    widget: dict
+    sub:
+    - var: img
+    - var: md
+    - var: img
+      name: img_2
+      label: Imagen 2
+    - var: md
+      name: md_2
+      label: Contenido 2
+
+- name: workplaces
+  label: Centros de trabajo
+  widget: slice
+  sub:
+  - var: title
+  - var: sub
+  - var: url
+  - var: img
+  - var: hover
+  - var: md
+
+- name: sectors
+  label: Sectores
+  widget: slice
+  sub:
+  - var: title
+  - var: icon
+  - var: md
+
+- name: clients
+  label: Clientes
+  widget: slice
+  sub:
+  - var: img
+  - var: url
+
+- name: contact
+  label: Contacto
+  widget: dict
+  sub:
+  - var: when
+  - var: links
+  - var: form
+  - var: inputs

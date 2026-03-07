@@ -1,10 +1,10 @@
 ---
 title: Acerinox confía en una subida del precio del níquel del 90%
 slug: acerinox-confia-en-una-subida-del-precio-del-niquel-del-90
-image: acerinox-cristal-reuters.jpg
+img: /u/acerinox-cristal-reuters.jpg
 author: admin
-date: 2016-12-07
-lastmod: 2016-12-07
+date: 2016-12-07 00:00:00
+mod: 2016-12-07 00:00:00
 ---
 Los inventarios de níquel de la bolsa de Londres han caído a mínimos previos
 a la crisis, allá por el año 2007, hasta las 4.980 toneladas métricas, en lo

@@ -1,16 +1,17 @@
 ---
 title: ¿Porque ha subido el acero inoxidable?
 slug: subida-precio-inoxidable
-description: El sector del metal es un mercado cíclico, como el propio nombre indica tiene años de subidas y otros de bajadas, hay circunstancia que aceleran o disminuyen la velocidad pero siempre hay que mirar la tendencia de fondo.
-image: venta-de-inoxidables.jpeg
+seo:
+  desc: El sector del metal es un mercado cíclico, como el propio nombre indica tiene años de subidas y otros de bajadas, hay circunstancia que aceleran o disminuyen la velocidad pero siempre hay que mirar la tendencia de fondo.
+img: /u/venta-de-inoxidables.jpeg
 author: admin
-date: 2022-03-17
+date: 2022-03-17 00:00:00
 ---
 El verdadero motivo no se rige solo a un factor y tampoco se ha gestado en un periodo corto de tiempo. Te explico porque:
 
 El sector del metal es un mercado cíclico, como el propio nombre indica tiene años de subidas y otros de bajadas, hay circunstancia que aceleran o disminuyen la velocidad pero siempre hay que mirar la tendencia de fondo.
 
-![](grafico-niquel-largo-plazo.jpg)
+![](/u/grafico-niquel-largo-plazo.jpg)
 
 En esto momento nos encontramos en una tendencia alcista que se inicio a en mayo de 2015 rompiendo los mínimos decrecientes que se venían efectuando desde el máximo de febrero de Febrero de 2011. El repunte cíclico que se inicio a mediados de 2016 con el crecimiento de Europa, Japón, China y EEUU donde se atisbaron condiciones financieras estables, dio el inicio de cambio de ciclo del precio de acero inoxidable. Desde ese momento el precio del inoxidable ha ido zigzagueando pero realizando siempre máximos crecientes hasta la fecha .
 
@@ -20,7 +21,7 @@ La inestabilidad de los productores de níquel también es un factor en el cual 
 
 Actualmente nos encontramos en una regulación del precio de este metal en el cual los mayores fabricantes del mundo han dejado de comprar este metal debido al alto precio registrado por lo tanto se encuentra en una estabilización del precio de este metal que espero que en aproximadamente quince días el precio se vuelva a situar en la base de la rotura de máximos crecientes que estaría en torno a  30.000 dolares. Si llegamos a este nivel de precios volvería al camino del alto pero estable precio que hemos ido teniendo estos últimos meses.
 
-![](grafico-niquel-corto-plazo.jpg)
+![](/u/grafico-niquel-corto-plazo.jpg)
 
 Como conclusión indicar que la Asociación Mundial del Acero pronostico para 2022 un incremento de demanda de acero del 2.2%. Por lo que el incremento de demanda, la poca producción debido al cierre o no aprovechamiento de su capacidad productiva, los altos costes del precio de la luz  y los conflictos no hace pensar que a corto plazo el precio del acero inoxidable vaya a caer dramáticamente aunque el precio del metal baje. 
 

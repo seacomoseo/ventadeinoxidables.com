@@ -1,12 +1,12 @@
 - name: toc
   value: 'false'
-  type: boolean
+  type: bool
   path: [ '/product/*', '/category/*']
 - name: nav
   value: 'false'
-  type: boolean
+  type: bool
   path: [ '/product/*', '/category/*']
 - name: index
   value: 'false'
-  type: boolean
+  type: bool
   path: [ '/product/*', '/category/*']

@@ -1,10 +1,10 @@
 ---
 title: Perfil UPN y IPN en Acero Inoxidable
 slug: perfil-upn-y-ipn-en-acero-inoxidable
-image: upn-y-ipn.jpg
+img: /u/upn-y-ipn.jpg
 author: admin
-date: 2015-10-08
-lastmod: 2015-10-08
+date: 2015-10-08 00:00:00
+mod: 2015-10-08 00:00:00
 ---
 Disponibilidad de envió en un máximo de una semana de la amplia gama de
 perfil UPN y IPN existentes. Todo este material podemos ofertarlo tanto en

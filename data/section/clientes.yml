@@ -1,18 +1,17 @@
 name: Clientes
 id: clientes
-title: Clientes
-subtitle: Confían en nosotros
 color: light
-menu_button: hide
-box:
-  gap: 2
-  gray: y
-  ratio: 2/1
-  cols: 5
-  cols_vs: 2
+menu_btn: hide
 boxes:
-- image: clientes/elpozo.svg
-- image: clientes/talasur.svg
-- image: clientes/cristaleriamoreno.svg
-- image: clientes/courcieres.svg
-- image: clientes/franchy.svg
+- title: Clientes
+  sub: Confían en nosotros
+  box:
+    gap: 2
+    gray: y
+    ratio: 2/1
+    cols: 5
+    cols_vs: 2
+    btn: hide
+  get:
+  - from: clients
+    to: boxes

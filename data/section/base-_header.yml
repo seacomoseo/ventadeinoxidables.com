@@ -1,30 +1,26 @@
 name: Base ➡️ Cabecera
 node: header
-align: left
 boxes:
+- align: left
 - if: breadcrumbs
   node: nav
   md: '{{< breadcrumbs >}}'
 - if: icon
-  params:
+  get:
   - to: title
   - from: h1
     to: title
   - to: icon
-  icon_type: side
+  icon_pos: side
 - if: not icon
-  params:
+  get:
   - to: title
   - from: h1
     to: title
 - tags:
   - type: type
   - type: date
-  # - type: time
-  # - type: words
   - type: address
-  # - type: tax
-  #   tax: all
   - type: param
     param: job
     icon: business_center
@@ -37,14 +33,14 @@ boxes:
     {.cancelled}
 - if: image
   node: div
-  params:
-  - from: image
-    to: image
+  get:
+  - from: img
+    to: img
   - from: title
     to: alt
-  - from: seo
+  - from: seo.title
     to: alt
-  - from: image
-    to: link
+  - from: img
+    to: url
   - to: ratio
-  button: hide
+  btn: hide

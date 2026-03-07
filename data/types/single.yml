@@ -1,4 +1,4 @@
-title: Únicas
+title: Páginas Únicas
 weight: 0
 base: single
 tpl:
@@ -10,10 +10,11 @@ tpl:
   callnow: auto
   section:
   - size: lg
-    caps: y
-    line: y
-    parallax: fix
+    scroll: fix
     div: arrow-side-round
     div_y: y
+    box:
+      caps: y
+      line: y
   - div_x: y
     div_y: n

@@ -1,10 +1,10 @@
 ---
 title: Las previsiones de la metalurgia en España mejoran en mayo
 slug: las-previsiones-de-la-metalurgia-en-espana-mejoran-en-mayo-segun-el-cuadro-500
-image: tubo-50.8-repulido.jpg
+img: /u/tubo-50.8-repulido.jpg
 author: admin
-date: 2015-07-02
-lastmod: 2015-08-07
+date: 2015-07-02 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 El Cuadro 500, que incluye medio millar de previsiones detalladas de
 comportamiento por sectores y mercados realizadas por los analistas de

@@ -2,7 +2,8 @@
 title: Política de Cookies
 slug: cookies
 icon: cookie
-noindex: y
+seo:
+  noindex: y
 type: system
 weight: 3
 ---
@@ -85,7 +86,7 @@ Si usted sigue navegando después de haberle informado sobre nuestra Política d
 
 Además del uso de nuestras cookies propias, permitimos a terceros establecer cookies y acceder a ellas en su ordenador. El consentimiento del uso de las cookies de esta **{{% legal name %}}** está ligado a la navegación por este sitio web.
 
-Para cualquier consulta sobre el uso de cookies en nuestro sitio web puedes dirigirte al email **{{% legal email %}}**.
+Para cualquier consulta sobre el uso de cookies en nuestro sitio web puedes dirigirte al email **{{% legal mail %}}**.
 
 ## Cambios en la Política de Cookies
 

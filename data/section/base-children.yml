@@ -11,7 +11,7 @@ boxes:
   box:
     cols: 5
 - if: taxonomy
-  params:
+  get:
   - from: filename
     to: list.{{ type }}
   list:

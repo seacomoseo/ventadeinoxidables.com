@@ -1,17 +1,21 @@
 name: Conocenos
 id: conocenos
-title: Conócenos
-subtitle: Venta de Inoxidables, S.L.
 color: white
-box:
-  cols: 2
 boxes:
-- image: fondo.jpg
-- link: '#conocenos-mas'
-  md: |
-    Venta de inoxidables ha nacido con la intencion de satisfacer las necesidades de nuestros clientes tanto actuales como potenciales, para ello contamos con un equipo humano de profesionales, cada uno especializado en su terreno, con el fin de brindar a nuestro cliente una experiencia enriquecedora.
-  align: left
-  align_y: center
+- title: Conócenos
+  sub: Venta de Inoxidables, S.L.
+  box:
+    cols: 2
+  boxes:
+  - get:
+    - from: about.img
+      to: img
+  - url: '#conocenos-mas'
+    align: left
+    align_y: center
+    get:
+    - from: about.md
+      to: md
 modal:
   color: white
   caps: y
@@ -19,34 +23,29 @@ modal:
 modals:
 - id: conocenos-mas
   title: Valores como empresa
-  subtitle: Venta de Inoxidables, S.L.
+  sub: Venta de Inoxidables, S.L.
   size: md
   box:
     cols: 2
   boxes:
-  - bi: acero-inoxidable.jpg
-    align_y: strech
-  - md: |
-      Nuestra filosofía de empresa es sencilla: satisfacer a nuestro cliente por encima de todo. Para ello os detallamos un poco acerca de nuestros valores principales:
-
-      - ::check:: Profesionalidad
-      - ::check:: Seriedad
-      - ::check:: Versatilidad
-      - ::check:: Seguridad en compras
-      - ::check:: Confianza
-      - ::check:: Honestidad
-      - ::check:: Espíritu de cooperación
-    align: left
+  - align_y: strech
+    get:
+    - from: about.modal.img
+      to: bi
+  - align: left
     align_y: center
+    get:
+    - from: about.modal.md
+      to: md
   - order: 3
-    bi: fondo.jpg
     align_y: strech
+    get:
+    - from: about.modal.img_2
+      to: bi
   - order: 1
-    link: '#contacto'
-    label: Contacto
-    md: |
-      Para cualquier duda acerca de nuestros productos o servicios, puede contactar con nostros mediante teléfono fijo, móvil, WhatsApp, email o formulario de contacto. Con gusto le atenderemos lo antes posible.
     align: left
     align_y: center
     align_vl: right
-    pin: none
+    get:
+    - from: about.modal.md_2
+      to: md

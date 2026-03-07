@@ -1,10 +1,10 @@
 ---
 title: La CE prolonga sus medidas antidumping contra productos de acero de China
 slug: la-ce-prolonga-sus-medidas-antidumping-contra-productos-de-acero-de-china
-image: produccion-aceroinoxidable-china123rf-3071.jpg
+img: /u/produccion-aceroinoxidable-china123rf-3071.jpg
 author: admin
-date: 2018-10-04
-lastmod: 2019-05-04
+date: 2018-10-04 00:00:00
+mod: 2019-05-04 00:00:00
 ---
 Bruselas, 6 mar (EFE).- La Comisión Europea (CE) anunció hoy la extensión de
 las medidas antidumping contra las importaciones de tuberías y tubos sin

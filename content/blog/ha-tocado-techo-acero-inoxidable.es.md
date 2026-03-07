@@ -1,16 +1,17 @@
 ---
 title: ¿Ha tocado techo el acero inoxidable?
 slug: ha-tocado-techo-acero-inoxidable
-description: La sensación en el mercado es que si ya que la poca demanda por el precio alcanzado ha hecho que se ralentizara la demanda de los metales, pero es cierto? Ahora lo vemos
-image: nave-avenida-principal-29-32-30169-murcia-interior.jpg
+seo:
+  desc: La sensación en el mercado es que si ya que la poca demanda por el precio alcanzado ha hecho que se ralentizara la demanda de los metales, pero es cierto? Ahora lo vemos
+img: /u/nave-avenida-principal-29-32-30169-murcia-interior.jpg
 author: admin
-date: 2022-06-07
+date: 2022-06-07 00:00:00
 ---
 ¿Han tocado techo los metales? La sensación en el mercado es que si ya que la poca demanda por el precio alcanzado ha hecho que se ralentizara la demanda de los metales, ¿pero es cierto? lo vemos a continuación:
 
 Empecemos analizando la gráfica del níquel
 
-![](grafico-niquel-nuevo-canal-alcista.jpg)
+![](/u/grafico-niquel-nuevo-canal-alcista.jpg)
 
 Como ya comente en el anterior articulo, estimábamos que había mucha probabilidad de que el metal desaceleraría la caída que estaba teniendo en los 26.000-28.000$ y efectivamente así ha ocurrido. Este hecho creo un inicio de un nuevo canal alcista que mientras no pierda en el gráfico mensual el soporte de 26.000 podríamos decir que sigue la tendencia.
 

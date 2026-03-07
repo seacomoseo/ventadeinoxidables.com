@@ -1,10 +1,10 @@
 ---
 title: Posición 199.979 del Ranking Nacional de Empresas según ventas
 slug: posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas
-image: posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png
+img: /u/posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png
 author: admin
-date: 2015-03-31
-lastmod: 2015-08-07
+date: 2015-03-31 00:00:00
+mod: 2015-08-07 00:00:00
 ---
 ALMACEN DE ACERO INOXIDABLE SL. ha obtenido la posición 199.979 del
 **Ranking Nacional de Empresas** según ventas

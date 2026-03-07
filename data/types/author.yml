@@ -1,5 +1,6 @@
+title: Autores
 base: author
-weight: 1
+weight: 2
 tax_of:
 - name: blog
   order: 1

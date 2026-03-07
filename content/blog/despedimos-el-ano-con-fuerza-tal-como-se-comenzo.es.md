@@ -1,10 +1,10 @@
 ---
 title: Despedimos el año con fuerza, tal como se comenzó
 slug: despedimos-el-ano-con-fuerza-tal-como-se-comenzo
-image: fullsizerender.jpg
+img: /u/fullsizerender.jpg
 author: admin
-date: 2016-12-07
-lastmod: 2016-12-07
+date: 2016-12-07 00:00:00
+mod: 2016-12-07 00:00:00
 ---
 Despedimos el año con fuerza, tal como se comenzó!
 

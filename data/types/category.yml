@@ -1,23 +1,23 @@
+title: Categorías
 base: page
 weight: 3
-name: category
 tax_of:
 - name: product
-  multiple: n
-  breadcrumbs: y
+  multi: n
+  crumbs: y
   schema: articleSection
 - name: category
-  multiple: n
-  breadcrumbs: y
+  multi: n
+  crumbs: y
 tpl:
   list:
     cols: 4
     cols_vs: 2
     align: center
-    image: catalogo-accesorio-alimentacion.jpg
+    img: /u/catalogo-accesorio-alimentacion.jpg
     ratio: 1/1
     hs: 4
     md: hide
     label: Más
-    button: cta
+    btn: cta
     pin: add

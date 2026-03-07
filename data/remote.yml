@@ -3,11 +3,12 @@
   lang: es
   types:
   - type: product
-    pairings:
+    maps:
     - to: title
     - from: id
       to: slug
-    - to: image
+    - from: image
+      to: img
     - from: parent
       to: category
     - to: noindex
@@ -17,11 +18,12 @@
   lang: es
   types:
   - type: category
-    pairings:
+    maps:
     - to: title
     - from: id
       to: slug
-    - to: image
+    - from: image
+      to: img
     - from: parent
       to: category
     - to: noindex

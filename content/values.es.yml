@@ -1,16 +1,188 @@
 menu:
-  image: base/logo-alt.svg
+  img: /u/base/logo-alt.svg
   items:
   - label: Catálogo
-    link: /catalogo/
-    button: dark
+    url: /catalogo/
+    btn: dark
+
+
+header:
+  links:
+  - type: custom
+    url: /catalogo/
+    label: Catálogo
+    icon: assignment
+  - type: phone
+    label: 968 88 32 38
+  - type: mail
+    label: ventas@ventadeinoxidables.com
+    full: y
+
+
+products:
+  md: |
+    Como cliente podrá encontrar todo tipo de productos en acero inoxidable tales como; tubos, chapas, barras, pletinas, flejes, accesorios roscados, válvulas, bridas, codos, reducciones, tornilleria inoxidable A-2 y A-4, suministros para pulir, accesorios nauticos inox., aluminio: tubos, chapas, barras, pletinas.
+
+    [[::assignment:: Catálogo]](/catalogo/ "[nofollow]")
+
+
+fabrication:
+- title: Pulido <br> Automático
+  img: /u/pulido-satinado-automatico.jpg
+  md: Contamos con 10 maquinas automaticas de fabricacion de acabado tanto exterior como interior para dar al cliente el servicio exclusivo que necesita.
+- title: Pulido de <br> Chapa
+  img: /u/pulido-satinado-chapa.jpg
+  md: Fabricamos acabado pulido y satinado en superficies planas y añadimos el plastificado que dese el cliente.
+- title: Pulido de <br> Accesorios
+  img: /u/pulido-interior-exterior-accesorios.jpg
+  md: Fabricamos todo tipo de acabados en el accesosorio dejando la rugosidad RA como soliciten y cabibrándolo con nuestro rugosímetro para optener la mayor calidad deseada.
+- title: Corte y <br> Plegado
+  img: /u/corte-plegado.jpg
+  md: Disponemos de tres maquinas de corte y plegado de hasta 6 metros de longitud para un servicio rapido de tus pedidos a medida.
+- title: Corte por <br> Plasma
+  img: /u/corte-plasma.jpg
+  md: Corte plasma en alta definicion para tus proyectos con grandes espesores. Servicio rapido de dos a tres dias.
+- title: Corte por <br> Láser
+  img: /u/corte-laser.jpg
+  md: Servio de corte láser de alta definicion para tus proyectos de ingenieria. Servicio rapido de dos a tres dias.
+- title: Láser en <br> Tubo
+  img: /u/laser-tubo.jpg
+  md: Damos servicio de corte longitudinal en tubo a largo de hasta 5800mm.
+- title: Curvadora de <br> Tubo
+  img: /u/curvadora-tubo.jpg
+  md: Podemor curvar tubos al radio que soliciten.
+- title: Curvadora de <br> Chapa
+  img: /u/curvadora-chapa.jpg
+  md: Cilindrado de chapa para la elaboración de despósitos o curvas en superficie plana.
+- title: Punzonadora
+  img: /u/punzonadora.jpg
+  md: Fabricación de chapa con abocardado y perforada, redonda, cuadrada y ovalada medida, en todos los materiales y acabados.
+- title: Mallas <br> Electrosoldadas
+  img: /u/malla-electrosoldada.jpg
+  md: Fabricación de mallas electrosoldadas en cuadrado o diagonal, en hierro y inoxidable.
+- title: Transporte
+  img: /u/transporte.jpg
+  md: Disponemos de amplia flota terrestre para entregar rápidamente en toda España y Portugal. También en cualquier parte del mundo gracias a acuerdos con agencias de trasnporte terrestre, marítimo y aéreo.
+
+
+about:
+  img: /u/fondo.jpg
+  md: |
+    Venta de inoxidables ha nacido con la intencion de satisfacer las necesidades de nuestros clientes tanto actuales como potenciales, para ello contamos con un equipo humano de profesionales, cada uno especializado en su terreno, con el fin de brindar a nuestro cliente una experiencia enriquecedora.
+  modal:
+    img: /u/acero-inoxidable.jpg
+    md: |
+      Nuestra filosofía de empresa es sencilla: satisfacer a nuestro cliente por encima de todo. Para ello os detallamos un poco acerca de nuestros valores principales:
+
+      - ::check:: Profesionalidad
+      - ::check:: Seriedad
+      - ::check:: Versatilidad
+      - ::check:: Seguridad en compras
+      - ::check:: Confianza
+      - ::check:: Honestidad
+      - ::check:: Espíritu de cooperación
+    img_2: /u/fondo.jpg
+    md_2: |
+      Para cualquier duda acerca de nuestros productos o servicios, puede contactar con nostros mediante teléfono fijo, móvil, WhatsApp, email o formulario de contacto. Con gusto le atenderemos lo antes posible.
+
+      [[Contacto]](#contacto)
+
+
+workplaces:
+- title: Nave 1<br>**Principal**
+  sub: Polígono Industrial Oeste
+  url: https://g.page/r/CdqCrWU3S5cMEAg
+  img: /u/nave-avenida-principal-21-7-30169-murcia-exterior.jpg
+  hover: /u/nave-avenida-principal-21-7-30169-murcia-interior.jpg
+  md: Avenida Principal, 21-7<br>30169 Murcia
+- title: Nave 2<br>**Fábrica**
+  sub: Polígono Industrial Oeste
+  url: https://goo.gl/maps/un3djCEuiC9ZeUL77
+  img: /u/nave-avenida-principal-29-32-30169-murcia-exterior.jpg
+  hover: /u/nave-avenida-principal-29-32-30169-murcia-interior.jpg
+  md: Avenida Principal, 29-32<br>30169 Murcia
+- title: Nave 3<br>**Corte y Plegado**
+  sub: Polígono Industrial Oeste
+  url: https://g.page/r/Cf1VNQ9ayDIZEAE
+  img: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-exterior.jpg
+  hover: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-interior.jpg
+  md: Av. Francisco Salzillo, 22/2 A<br>30169 Murcia
+- title: Nave 4<br>**Almacén**
+  sub: Polígono Industrial Oeste
+  url: https://goo.gl/maps/BqhSXVoWzVNBE9pF7
+  img: /u/nave-calle-francisco-salzillo-5-30820-alcantarilla-murcia-exterior.png
+  md: |
+    Calle Francisco Salzillo, 5<br>30820 Alcantarilla, Murcia
+
+    2.000 m2 en construcción disponible en 2022
+
+
+sectors:
+- title: Industrial
+  icon: factory
+  md: |
+    Nuestro conjunto de productos y servicios en diferentes calidades de acero inoxidable hacen poder satisfacer cualquier necesidad que demande.
+- title: Decoración
+  icon: auto_fix_high
+  md: |
+    Gracias a nuestras maquinas damos el mejor acabado superficial y servicio al cliente, pudiéndole ofrecer cualquier producto tanto en largo como accesorio en AISI 304 y AISI 316.
+- title: Alimentario
+  icon: restaurant
+  md: |
+    Disponibilidad de productos DIN 11850 - 11851 y CLAMP destinados especialmente para esta área.
+- title: Náutico
+  icon: anchor
+  md: |
+    Nuestros diferentes procesos logran un pulido náutico en cualquier clase de material (AISI 316), además de disponer una amplia gama en accesorio náutico y tornilleria A4
+
+
+clients:
+- img: /u/clientes/elpozo.svg
+- img: /u/clientes/talasur.svg
+- img: /u/clientes/cristaleriamoreno.svg
+- img: /u/clientes/courcieres.svg
+- img: /u/clientes/franchy.svg
+
+
+contact:
+  when:
+  - days: Lunes a Viernes
+    hours: 8:00-13:30 + 15:30-19:30
+  - days: Sábados
+    hours: 9:00-13:00
+  links:
+  - type: phone
+    label: 968 88 32 38
+  - type: phone
+    label: 673 70 47 24
+  - type: whatsapp
+    label: 673 70 47 24
+  - type: mail
+    label: ventas@ventadeinoxidables.com
+    full: y
+    btn: light
+  form:
+    icon: hide
+    consent: He leído y acepto la [Política de Privacidad](/privacidad/ "[_blank]") y [Cláusula de Protección de Datos](/privacidad/#formularios "[_blank]").
+  inputs:
+  - type: text
+    name: Nombre
+    req: y
+  - type: mail
+    name: Email
+    req: y
+  - type: area
+    name: Mensaje
+    req: y
+
+
 footer:
   space: 2
   dots:
-  - link: https://g.page/r/CdqCrWU3S5cMEAg
-  - link: https://www.facebook.com/ventadeinoxidables/
-  - link: https://twitter.com/ventainoxidable
-  - link: https://es.linkedin.com/company/venta-de-inoxidables
+  - url: https://g.page/r/CdqCrWU3S5cMEAg
+  - url: https://www.facebook.com/ventadeinoxidables/
+  - url: https://twitter.com/ventainoxidable
+  - url: https://es.linkedin.com/company/venta-de-inoxidables
   div: arrow-side-round
   div_y: y
   md: |

@@ -58,33 +58,33 @@
 
 ## blog imgs
 
-- { from: /wp-content/uploads/2015/03/Captura-de-pantalla-2015-03-31-a-las-07.27.59-300x88.png , to: /media/posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png }
-- { from: /wp-content/uploads/2015/04/FOTO-6.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-6.jpg }
-- { from: /wp-content/uploads/2015/04/FOTO-7.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-7.jpg }
-- { from: /wp-content/uploads/2015/04/FOTO-8.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-8.jpg }
-- { from: /wp-content/uploads/2015/04/FOTO-9.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-9.jpg }
-- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071-300x199.jpg , to: /media/produccion-aceroinoxidable-china123rf-3071.jpg }
-- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071.jpg , to: /media/produccion-aceroinoxidable-china123rf-3071.jpg }
-- { from: /wp-content/uploads/2015/04/Tig-Brush.png , to: /media/tig-brush.png }
-- { from: /wp-content/uploads/2015/04/unnamed-1-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-1.jpg }
-- { from: /wp-content/uploads/2015/04/unnamed-2-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-2.jpg }
-- { from: /wp-content/uploads/2015/04/unnamed-4-1024x576.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife-4.jpg }
-- { from: /wp-content/uploads/2015/04/unnamed.jpg , to: /media/barandilla-franchy-santa-cruz-de-tenerife.jpg }
-- { from: /wp-content/uploads/2015/05/FOTO-REJILLA-20MM-2.jpg , to: /media/foto-rejilla-20mm-2.jpg }
-- { from: /wp-content/uploads/2015/06/Perf-10mm-316-1mm.jpg , to: /media/perf-10mm-316-1mm.jpg }
-- { from: /wp-content/uploads/2015/06/TUBO-273-4.jpg , to: /media/tubo-273-4.jpg }
-- { from: /wp-content/uploads/2015/07/la-foto-1-300x225.jpg , to: /media/fleje-de-acero-inoxidable-0-6mm.jpg }
-- { from: /wp-content/uploads/2015/07/tubo-50.8-repulido-225x300.jpg , to: /media/tubo-50.8-repulido.jpg }
-- { from: /wp-content/uploads/2015/08/Chapa-repujada-inox-3mm-225x300.jpg , to: /media/chapa-repujada-inox-3mm.jpg }
-- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-1-300x225.jpg , to: /media/envio-export-1.jpg }
-- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-2-300x225.jpg , to: /media/envio-export-2.jpg }
-- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-3-300x225.jpg , to: /media/envio-export-3.jpg }
-- { from: /wp-content/uploads/2015/10/UPN-Y-IPN-300x291.jpg , to: /media/upn-y-ipn.jpg }
-- { from: /wp-content/uploads/2015/12/Comparativa-acabado-300x300.jpg , to: /media/comparativa-acabado-pulido-acero-inox.jpg }
-- { from: /wp-content/uploads/2016/02/acero-empresa-300x180.jpg , to: /media/acero-empresa.jpg }
-- { from: /wp-content/uploads/2016/03/IMG_3632-1024x768.jpg , to: /media/reparto-camion-inox.jpg }
-- { from: /wp-content/uploads/2016/12/FullSizeRender-1024x768.jpg , to: /media/fullsizerender.jpg }
-- { from: /wp-content/uploads/2019/05/700x420_arcelor-mittal-recorte-beneficio.jpg , to: /media/arcelor-mittal-recorte-beneficio.jpg }
+- { from: /wp-content/uploads/2015/03/Captura-de-pantalla-2015-03-31-a-las-07.27.59-300x88.png , to: /u/posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png }
+- { from: /wp-content/uploads/2015/04/FOTO-6.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-6.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-7.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-7.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-8.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-8.jpg }
+- { from: /wp-content/uploads/2015/04/FOTO-9.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-9.jpg }
+- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071-300x199.jpg , to: /u/produccion-aceroinoxidable-china123rf-3071.jpg }
+- { from: /wp-content/uploads/2015/04/produccion_aceroinoxidable_china123rf_3071.jpg , to: /u/produccion-aceroinoxidable-china123rf-3071.jpg }
+- { from: /wp-content/uploads/2015/04/Tig-Brush.png , to: /u/tig-brush.png }
+- { from: /wp-content/uploads/2015/04/unnamed-1-1024x576.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-1.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed-2-1024x576.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-2.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed-4-1024x576.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife-4.jpg }
+- { from: /wp-content/uploads/2015/04/unnamed.jpg , to: /u/barandilla-franchy-santa-cruz-de-tenerife.jpg }
+- { from: /wp-content/uploads/2015/05/FOTO-REJILLA-20MM-2.jpg , to: /u/foto-rejilla-20mm-2.jpg }
+- { from: /wp-content/uploads/2015/06/Perf-10mm-316-1mm.jpg , to: /u/perf-10mm-316-1mm.jpg }
+- { from: /wp-content/uploads/2015/06/TUBO-273-4.jpg , to: /u/tubo-273-4.jpg }
+- { from: /wp-content/uploads/2015/07/la-foto-1-300x225.jpg , to: /u/fleje-de-acero-inoxidable-0-6mm.jpg }
+- { from: /wp-content/uploads/2015/07/tubo-50.8-repulido-225x300.jpg , to: /u/tubo-50.8-repulido.jpg }
+- { from: /wp-content/uploads/2015/08/Chapa-repujada-inox-3mm-225x300.jpg , to: /u/chapa-repujada-inox-3mm.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-1-300x225.jpg , to: /u/envio-export-1.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-2-300x225.jpg , to: /u/envio-export-2.jpg }
+- { from: /wp-content/uploads/2015/10/ENVIO-EXPORT-3-300x225.jpg , to: /u/envio-export-3.jpg }
+- { from: /wp-content/uploads/2015/10/UPN-Y-IPN-300x291.jpg , to: /u/upn-y-ipn.jpg }
+- { from: /wp-content/uploads/2015/12/Comparativa-acabado-300x300.jpg , to: /u/comparativa-acabado-pulido-acero-inox.jpg }
+- { from: /wp-content/uploads/2016/02/acero-empresa-300x180.jpg , to: /u/acero-empresa.jpg }
+- { from: /wp-content/uploads/2016/03/IMG_3632-1024x768.jpg , to: /u/reparto-camion-inox.jpg }
+- { from: /wp-content/uploads/2016/12/FullSizeRender-1024x768.jpg , to: /u/fullsizerender.jpg }
+- { from: /wp-content/uploads/2019/05/700x420_arcelor-mittal-recorte-beneficio.jpg , to: /u/arcelor-mittal-recorte-beneficio.jpg }
 
 # pages
 
@@ -95,13 +95,13 @@
 
 # imgs
 
-- { from: /assets/images/logo2.jpg , to: /media/logo.png }
-- { from: /assets/images/slide-1.jpg , to: /media/ciudad-de-acero-inoxidable.jpg }
-- { from: /assets/images/slide-2.jpg , to: /media/fondo.jpg }
-- { from: /assets/images/slide-3.jpg , to: /media/acero-inoxidable.jpg }
-- { from: /assets/images/pulidos.png , to: /media/pulidos.jpg }
-- { from: /assets/images/plegado.jpg , to: /media/plegado.jpg }
-- { from: /assets/images/corte.jpg , to: /media/corte.jpg }
+- { from: /assets/images/logo2.jpg , to: /u/logo.png }
+- { from: /assets/images/slide-1.jpg , to: /u/ciudad-de-acero-inoxidable.jpg }
+- { from: /assets/images/slide-2.jpg , to: /u/fondo.jpg }
+- { from: /assets/images/slide-3.jpg , to: /u/acero-inoxidable.jpg }
+- { from: /assets/images/pulidos.png , to: /u/pulidos.jpg }
+- { from: /assets/images/plegado.jpg , to: /u/plegado.jpg }
+- { from: /assets/images/corte.jpg , to: /u/corte.jpg }
 - { from: /assets/images/ace-box-icon.jpg , to: / }
 - { from: /assets/images/Lock-icon.png , to: / }
 - { from: /assets/images/nexus-garantia.jpg , to: / }
