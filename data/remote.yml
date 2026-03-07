@@ -11,7 +11,8 @@
       to: img
     - from: parent
       to: category
-    - to: seo.noindex
+    - from: noindex
+      to: seo.noindex
     - from: order
       to: weight
     - to: content
@@ -28,7 +29,8 @@
       to: img
     - from: parent
       to: category
-    - to: seo.noindex
+    - from: noindex
+      to: seo.noindex
     - from: order
       to: weight
     - to: content
