@@ -88,12 +88,6 @@ workplaces:
     Polígono Industrial Oeste, Av. de las Américas, 10, 5, 30820 Alcantarilla, Murcia
 
     2.000 m2 de almacen
-- title: Nave 4<br>**Principal**
-  sub: Polígono Industrial Oeste
-  url: https://g.page/r/CdqCrWU3S5cMEAg
-  img: /u/nave-avenida-principal-21-7-30169-murcia-exterior.jpg
-  hover: /u/nave-avenida-principal-21-7-30169-murcia-interior.jpg
-  md: Avenida Principal, 21-7<br>30169 Murcia
 - title: Nave 2<br>**Fábrica**
   sub: Polígono Industrial Oeste
   url: https://goo.gl/maps/un3djCEuiC9ZeUL77
@@ -106,6 +100,12 @@ workplaces:
   img: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-exterior.jpg
   hover: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-interior.jpg
   md: Av. Francisco Salzillo, 22/2 A<br>30169 Murcia
+- title: Nave 4<br>**Principal**
+  sub: Polígono Industrial Oeste
+  url: https://g.page/r/CdqCrWU3S5cMEAg
+  img: /u/nave-avenida-principal-21-7-30169-murcia-exterior.jpg
+  hover: /u/nave-avenida-principal-21-7-30169-murcia-interior.jpg
+  md: Avenida Principal, 21-7<br>30169 Murcia
 sectors:
 - title: Industrial
   icon: factory
