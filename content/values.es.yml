@@ -79,7 +79,16 @@ about:
 
       [[Contacto]](#contacto)
 workplaces:
-- title: Nave 1<br>**Principal**
+- title: Nave 1<br>**Almacén**
+  sub: Polígono Industrial Oeste
+  url: https://www.google.com/maps/place/Venta+de+Inoxidables,+S.L./@37.9550934,-1.2010855,19.5z/data=!4m15!1m8!3m7!1s0xd637fe890c339a5:0x9868670ea91d9d30!2sAv.+Escultor+Francisco+Salzillo,+5,+30820+Alcantarilla,+Murcia!3b1!8m2!3d37.954843!4d-1.2015822!16s%2Fg%2F11c4xmblj6!3m5!1s0xd637f95e68e08bd:0xc974b3765ad82da!8m2!3d37.9551099!4d-1.2014506!16s%2Fg%2F1pp2vb0w8?entry=ttu&g_ep=EgoyMDI2MDMwNS4wIKXMDSoASAFQAw%3D%3D
+  img: /u/whatsapp-image-2023-10-10-at-07-59-07-7.webp
+  hover: /u/whatsapp-image-2023-10-10-at-07-59-07-5.webp
+  md: |-
+    Polígono Industrial Oeste, Av. de las Américas, 10, 5, 30820 Alcantarilla, Murcia
+
+    2.000 m2 de almacen
+- title: Nave 4<br>**Principal**
   sub: Polígono Industrial Oeste
   url: https://g.page/r/CdqCrWU3S5cMEAg
   img: /u/nave-avenida-principal-21-7-30169-murcia-exterior.jpg
@@ -97,15 +106,6 @@ workplaces:
   img: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-exterior.jpg
   hover: /u/nave-av-francisco-salzillo-22-2-a-30169-murcia-interior.jpg
   md: Av. Francisco Salzillo, 22/2 A<br>30169 Murcia
-- title: Nave 1<br>**Almacén**
-  sub: Polígono Industrial Oeste
-  url: https://www.google.com/maps/place/Venta+de+Inoxidables,+S.L./@37.9550934,-1.2010855,19.5z/data=!4m15!1m8!3m7!1s0xd637fe890c339a5:0x9868670ea91d9d30!2sAv.+Escultor+Francisco+Salzillo,+5,+30820+Alcantarilla,+Murcia!3b1!8m2!3d37.954843!4d-1.2015822!16s%2Fg%2F11c4xmblj6!3m5!1s0xd637f95e68e08bd:0xc974b3765ad82da!8m2!3d37.9551099!4d-1.2014506!16s%2Fg%2F1pp2vb0w8?entry=ttu&g_ep=EgoyMDI2MDMwNS4wIKXMDSoASAFQAw%3D%3D
-  img: /u/whatsapp-image-2023-10-10-at-07-59-07-7.webp
-  hover: /u/whatsapp-image-2023-10-10-at-07-59-07-5.webp
-  md: |-
-    Polígono Industrial Oeste, Av. de las Américas, 10, 5, 30820 Alcantarilla, Murcia
-
-    2.000 m2 de almacen
 sectors:
 - title: Industrial
   icon: factory
