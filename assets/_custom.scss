@@ -35,3 +35,13 @@
     @include fluid-size(width, 1px, 288, 330);
   }
 }
+
+// Cookies
+
+.btn.btn--sm.btn--swap.turn {
+  --base: var(--cta);
+  --base-in: var(--cta-in);
+  > b {
+    @include font-btn;
+  }
+}
