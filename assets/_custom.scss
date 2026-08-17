@@ -1,12 +1,15 @@
+@use 'css/variables';
+@use 'css/mixins';
+
 // Logo
 
 .logo__link:not(.aux) {
   background-image: none;
 }
 
-// Header
+// Hero
 
-#body-home #header {
+#body-home #hero {
   .links {
     animation: show-from .5s 1.25s both;
   }
@@ -17,7 +20,7 @@
 
 #centros {
   .box__title > strong {
-    color: $gray;
+    color: variables.$gray;
   }
 }
 
@@ -32,7 +35,7 @@
   .md__fig {
     display: inline-block;
     margin-inline: .5em;
-    @include fluid-size(width, 1px, 288, 330);
+    @include mixins.fluid-size(width, 1px, 288, 330);
   }
 }
 
@@ -42,6 +45,6 @@
   --base: var(--cta);
   --base-in: var(--cta-in);
   > b {
-    @include font-btn;
+    @include mixins.font-btn;
   }
 }

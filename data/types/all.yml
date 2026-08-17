@@ -4,18 +4,18 @@ tpl:
     color: light
   menu:
     sticky: none
-    logo: y
+    logo: true
     logo_align: left
     size: sm
-    clear: y
+    clear: true
     color: white
-    hide_icons: y
+    hide_icons: true
     auto: home
   callnow: hide
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -29,12 +29,12 @@ tpl:
     cols: 3
     align: left
     color: such
-    shade: y
-    inset: y
+    shade: true
+    inset: true
     ratio: 16/9
     icon: hide
     btn: hide
     tags:
     - type: date
   rel:
-    slider: y
+    slider: true

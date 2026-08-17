@@ -1,7 +1,7 @@
 name: Centros
 id: centros
 color: light
-div_y: n
+div_y: false
 div: arrow-side-round
 boxes:
 - title: Centros
@@ -10,13 +10,13 @@ boxes:
     cols: 4
     color: white
     ratio: 3/2
-    inset: y
+    inset: true
     hs: 4
     icon: place
     icon_pos: sub
     pin: add
     label: Mapa
-    lock: y
+    lock: true
   get:
   - from: workplaces
     to: boxes

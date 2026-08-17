@@ -15,7 +15,7 @@ org:
   sum: Fabricante y Distribuidor de artículos de Acero Inoxidable a nivel Nacional e Internacional.
   legal: Venta de Inoxidables, S.L.
   nif: B73808230
-  mail: null
+  mail: ventas@ventadeinoxidables.com
   logo: /u/base/logo.svg
   imgs:
   - /u/acero-inoxidable.jpg
@@ -69,18 +69,18 @@ org:
   - Internacional
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 8:00
       close: 13:30
     - open: 15:30
       close: 19:30
   - days:
-      sat: y
+      sat: true
     hours:
     - open: 9:00
       close: 13:00
@@ -122,7 +122,7 @@ org:
     desc: Disponemos de amplia flota terrestre para entregar rápidamente en toda España y Portugal. También en cualquier parte del mundo gracias a acuerdos con agencias de trasnporte terrestre, marítimo y aéreo.
 tpl:
   sections:
-  - file: header
+  - file: _hero
   - file: productos
   - file: fabricacion
   - file: noticias

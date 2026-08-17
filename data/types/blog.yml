@@ -2,7 +2,7 @@ title: Blog
 base: article
 weight: 1
 name: blog
-rel: y
+rel: true
 tpl:
   list:
     md: hide

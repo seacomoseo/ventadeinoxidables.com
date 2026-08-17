@@ -14,7 +14,7 @@ header:
     label: 968 88 32 38
   - type: mail
     label: ventas@ventadeinoxidables.com
-    full: y
+    full: true
 products:
   md: |-
     Como cliente podrá encontrar todo tipo de productos en acero inoxidable tales como; tubos, chapas, barras, pletinas, flejes, accesorios roscados, válvulas, bridas, codos, reducciones, tornilleria inoxidable A-2 y A-4, suministros para pulir, accesorios nauticos inox., aluminio: tubos, chapas, barras, pletinas.
@@ -140,7 +140,7 @@ contact:
     label: 673 70 47 24
   - type: mail
     label: ventas@ventadeinoxidables.com
-    full: y
+    full: true
     btn: light
   form:
     icon: hide
@@ -148,16 +148,16 @@ contact:
   inputs:
   - type: text
     name: Nombre
-    req: y
+    req: true
   - type: mail
     name: Email
-    req: y
+    req: true
   - type: area
     name: Mensaje
-    req: y
+    req: true
 footer:
   div: arrow-side-round
-  div_y: y
+  div_y: true
   dots:
   - url: https://g.page/r/CdqCrWU3S5cMEAg
   - url: https://www.facebook.com/ventadeinoxidables/

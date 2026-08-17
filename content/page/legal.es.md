@@ -3,7 +3,7 @@ title: Aviso Legal
 slug: legal
 icon: balance
 seo:
-  noindex: y
+  noindex: true
 type: system
 weight: 1
 ---

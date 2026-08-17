@@ -1,7 +1,8 @@
 baseURL: https://ventadeinoxidables.com
-buildFuture: n
+buildFuture: false
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: ventadeinoxidables.com
   name: inoxidables
   netlify_id: 0b775d1a-b737-4a66-a3bd-2848412c665c

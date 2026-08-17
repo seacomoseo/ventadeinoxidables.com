@@ -22,8 +22,8 @@ boxes:
       to: md
 modal:
   color: white
-  caps: y
-  line: y
+  caps: true
+  line: true
 modals:
 - id: conocenos-mas
   title: Valores como empresa

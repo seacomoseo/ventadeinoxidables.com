@@ -1,11 +1,10 @@
-name: Header
-id: header
+name: Hero
 color: white
 bi: /u/fondo.mp4
 alpha: 0.7
 size: xs
 scroll: fix
-div_x: y
+div_x: true
 boxes:
 - hanchor: Venta de Inoxidables - Fabricación y Distribución de Acero Inoxidable
   box:

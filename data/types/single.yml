@@ -3,7 +3,7 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: n
+    logo: false
     sticky: auto
     size: lg
     auto: same
@@ -12,9 +12,9 @@ tpl:
   - size: lg
     scroll: fix
     div: arrow-side-round
-    div_y: y
+    div_y: true
     box:
-      caps: y
-      line: y
-  - div_x: y
-    div_y: n
+      caps: true
+      line: true
+  - div_x: true
+    div_y: false

@@ -7,7 +7,7 @@ boxes:
   sub: Confían en nosotros
   box:
     gap: 2
-    gray: y
+    gray: true
     ratio: 2/1
     cols: 5
     cols_vs: 2

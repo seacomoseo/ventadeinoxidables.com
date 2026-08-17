@@ -3,12 +3,12 @@ base: page
 weight: 3
 tax_of:
 - name: product
-  multi: n
-  crumbs: y
+  multi: false
+  crumbs: true
   schema: articleSection
 - name: category
-  multi: n
-  crumbs: y
+  multi: false
+  crumbs: true
 tpl:
   list:
     cols: 4

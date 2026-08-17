@@ -3,7 +3,7 @@ base: page
 weight: 4
 name: product
 icon: box
-rel: y
+rel: true
 tpl:
   list:
     cols: 4
