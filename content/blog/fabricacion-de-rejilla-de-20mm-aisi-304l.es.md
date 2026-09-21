@@ -1,6 +1,6 @@
 ---
-title: Fabricacion de rejilla de 20mm AISI-304L
 slug: fabricacion-de-rejilla-de-20mm-aisi-304l
+title: Fabricacion de rejilla de 20mm AISI-304L
 img: /u/foto-rejilla-20mm-2.jpg
 author: admin
 date: 2015-05-28 00:00:00

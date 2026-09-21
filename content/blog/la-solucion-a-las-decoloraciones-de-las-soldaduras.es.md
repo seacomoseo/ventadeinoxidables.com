@@ -1,6 +1,6 @@
 ---
-title: La solución a las decoloraciones de las soldaduras - Tig Brush
 slug: la-solucion-a-las-decoloraciones-de-las-soldaduras
+title: La solución a las decoloraciones de las soldaduras - Tig Brush
 img: /u/tig-brush.png
 author: admin
 date: 2015-04-29 00:00:00

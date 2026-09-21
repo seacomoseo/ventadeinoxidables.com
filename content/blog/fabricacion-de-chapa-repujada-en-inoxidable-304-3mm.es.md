@@ -1,6 +1,6 @@
 ---
-title: Fabricación de chapa repujada en inoxidable 304 3mm
 slug: fabricacion-de-chapa-repujada-en-inoxidable-304-3mm
+title: Fabricación de chapa repujada en inoxidable 304 3mm
 img: /u/chapa-repujada-inox-3mm.jpg
 author: admin
 date: 2015-08-07 00:00:00

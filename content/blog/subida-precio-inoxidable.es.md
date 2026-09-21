@@ -1,6 +1,6 @@
 ---
-title: ¿Porque ha subido el acero inoxidable?
 slug: subida-precio-inoxidable
+title: ¿Porque ha subido el acero inoxidable?
 seo:
   desc: El sector del metal es un mercado cíclico, como el propio nombre indica tiene años de subidas y otros de bajadas, hay circunstancia que aceleran o disminuyen la velocidad pero siempre hay que mirar la tendencia de fondo.
 img: /u/venta-de-inoxidables.jpeg

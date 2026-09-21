@@ -1,16 +1,22 @@
-- name: header
+- types: [ single ]
+  pages: [ _home ]
+  name: hero
   label: Cabecera
   widget: dict
   sub:
   - var: links
 
-- name: products
+- types: [ single ]
+  pages: [ _home ]
+  name: products
   label: Productos
   widget: dict
   sub:
   - var: md
 
-- name: fabrication
+- types: [ single ]
+  pages: [ _home ]
+  name: fabrication
   label: Fabricación
   widget: slice
   sub:
@@ -18,7 +24,9 @@
   - var: img
   - var: md
 
-- name: about
+- types: [ single ]
+  pages: [ _home ]
+  name: about
   label: Conócenos
   widget: dict
   sub:
@@ -38,7 +46,9 @@
       name: md_2
       label: Contenido 2
 
-- name: workplaces
+- types: [ single ]
+  pages: [ _home ]
+  name: workplaces
   label: Centros de trabajo
   widget: slice
   sub:
@@ -49,7 +59,9 @@
   - var: hover
   - var: md
 
-- name: sectors
+- types: [ single ]
+  pages: [ _home ]
+  name: sectors
   label: Sectores
   widget: slice
   sub:
@@ -57,14 +69,18 @@
   - var: icon
   - var: md
 
-- name: clients
+- types: [ single ]
+  pages: [ _home ]
+  name: clients
   label: Clientes
   widget: slice
   sub:
   - var: img
   - var: url
 
-- name: contact
+- types: [ single ]
+  pages: [ _home ]
+  name: contact
   label: Contacto
   widget: dict
   sub:

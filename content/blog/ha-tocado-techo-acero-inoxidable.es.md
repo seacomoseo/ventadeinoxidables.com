@@ -1,6 +1,6 @@
 ---
-title: ¿Ha tocado techo el acero inoxidable?
 slug: ha-tocado-techo-acero-inoxidable
+title: ¿Ha tocado techo el acero inoxidable?
 seo:
   desc: La sensación en el mercado es que si ya que la poca demanda por el precio alcanzado ha hecho que se ralentizara la demanda de los metales, pero es cierto? Ahora lo vemos
 img: /u/nave-avenida-principal-29-32-30169-murcia-interior.jpg

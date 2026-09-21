@@ -1,6 +1,6 @@
 ---
-title: Fabricacion de pulido de tubo
 slug: fabricacion-de-pulido-de-tubo-273x3mm
+title: Fabricacion de pulido de tubo
 img: /u/tubo-273-4.jpg
 author: admin
 date: 2015-06-12 00:00:00

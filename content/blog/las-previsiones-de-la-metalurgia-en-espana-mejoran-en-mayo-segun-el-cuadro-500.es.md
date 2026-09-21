@@ -1,6 +1,6 @@
 ---
-title: Las previsiones de la metalurgia en España mejoran en mayo
 slug: las-previsiones-de-la-metalurgia-en-espana-mejoran-en-mayo-segun-el-cuadro-500
+title: Las previsiones de la metalurgia en España mejoran en mayo
 img: /u/tubo-50.8-repulido.jpg
 author: admin
 date: 2015-07-02 00:00:00

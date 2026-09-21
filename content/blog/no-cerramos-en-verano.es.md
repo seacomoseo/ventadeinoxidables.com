@@ -1,6 +1,6 @@
 ---
-title: Arcelor y Acerinox sufren recortes del 20% en el beneficio de 2019 y 2020
 slug: no-cerramos-en-verano
+title: Arcelor y Acerinox sufren recortes del 20% en el beneficio de 2019 y 2020
 img: /u/arcelor-mittal-recorte-beneficio.jpg
 author: admin
 date: 2019-05-03 00:00:00

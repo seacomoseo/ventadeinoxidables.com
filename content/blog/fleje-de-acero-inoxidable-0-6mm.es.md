@@ -1,6 +1,6 @@
 ---
-title: Fleje de Acero Inoxidable 0.6mm
 slug: fleje-de-acero-inoxidable-0-6mm
+title: Fleje de Acero Inoxidable 0.6mm
 seo:
   desc: Si estás buscando un fleje de acero inoxidable 0.6mm, en almacendeacero podrás encontrar este y muchos más tipos. Accede a nuestra sección de productos.
 img: /u/fleje-de-acero-inoxidable-0-6mm.jpg

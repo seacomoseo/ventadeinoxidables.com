@@ -1,6 +1,6 @@
 ---
-title: Acerinox confía en una subida del precio del níquel del 90%
 slug: acerinox-confia-en-una-subida-del-precio-del-niquel-del-90
+title: Acerinox confía en una subida del precio del níquel del 90%
 img: /u/acerinox-cristal-reuters.jpg
 author: admin
 date: 2016-12-07 00:00:00

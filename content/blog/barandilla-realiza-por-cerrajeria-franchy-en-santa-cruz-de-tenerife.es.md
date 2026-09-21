@@ -1,6 +1,6 @@
 ---
-title: Barandilla realiza por Cerrajeria Franchy en Santa Cruz de Tenerife
 slug: barandilla-realiza-por-cerrajeria-franchy-en-santa-cruz-de-tenerife
+title: Barandilla realiza por Cerrajeria Franchy en Santa Cruz de Tenerife
 img: /u/barandilla-franchy-santa-cruz-de-tenerife.jpg
 author: admin
 date: 2015-04-28 00:00:00

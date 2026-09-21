@@ -1,7 +1,6 @@
 title: Blog
 base: article
 weight: 1
-name: blog
 rel: true
 tpl:
   list:

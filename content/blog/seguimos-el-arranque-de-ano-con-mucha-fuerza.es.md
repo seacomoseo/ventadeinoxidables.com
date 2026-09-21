@@ -1,6 +1,6 @@
 ---
-title: Seguimos el arranque de año con mucha fuerza
 slug: seguimos-el-arranque-de-ano-con-mucha-fuerza
+title: Seguimos el arranque de año con mucha fuerza
 img: /u/reparto-camion-inox.jpg
 author: admin
 date: 2016-03-17 00:00:00

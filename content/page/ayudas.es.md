@@ -1,6 +1,6 @@
 ---
-title: Ayudas
 slug: ayudas
+title: Ayudas
 img: /u/logo-ue-texto.png
 icon: support
 seo:

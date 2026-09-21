@@ -1,6 +1,6 @@
 ---
-title: Política de Privacidad
 slug: privacidad
+title: Política de Privacidad
 icon: encrypted
 seo:
   noindex: true

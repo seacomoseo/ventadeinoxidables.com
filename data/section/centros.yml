@@ -1,8 +1,8 @@
 name: Centros
 id: centros
 color: light
-div_y: false
 div: arrow-side-round
+div_y: false
 boxes:
 - title: Centros
   sub: de trabajo

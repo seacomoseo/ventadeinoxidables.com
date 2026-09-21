@@ -1,6 +1,6 @@
 ---
-title: El acero chino pone en el precipicio al sector siderúrgico europeo
 slug: el-acero-chino-pone-en-el-precipicio-al-sector-siderurgico-europeo
+title: El acero chino pone en el precipicio al sector siderúrgico europeo
 img: /u/acero-empresa.jpg
 author: admin
 toc: true

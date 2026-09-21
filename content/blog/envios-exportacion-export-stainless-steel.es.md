@@ -1,6 +1,6 @@
 ---
-title: Envíos exportación - export stainless steel
 slug: envios-exportacion-export-stainless-steel
+title: Envíos exportación - export stainless steel
 img: /u/envio-export-3.jpg
 author: admin
 date: 2015-10-24 00:00:00

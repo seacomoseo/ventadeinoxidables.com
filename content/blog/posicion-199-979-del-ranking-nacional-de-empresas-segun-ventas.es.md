@@ -1,6 +1,6 @@
 ---
-title: Posición 199.979 del Ranking Nacional de Empresas según ventas
 slug: posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas
+title: Posición 199.979 del Ranking Nacional de Empresas según ventas
 img: /u/posicion-199-979-del-ranking-nacional-de-empresas-segun-ventas.png
 author: admin
 date: 2015-03-31 00:00:00

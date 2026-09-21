@@ -1,6 +1,6 @@
 ---
-title: Aviso Legal
 slug: legal
+title: Aviso Legal
 icon: balance
 seo:
   noindex: true

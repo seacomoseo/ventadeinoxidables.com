@@ -1,6 +1,6 @@
 ---
-title: Política de Cookies
 slug: cookies
+title: Política de Cookies
 icon: cookie
 seo:
   noindex: true

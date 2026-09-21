@@ -1,6 +1,6 @@
 ---
-title: tubo acero inoxidable
 slug: comparativa-acabados-respecto-competencia
+title: tubo acero inoxidable
 img: /u/comparativa-acabado-pulido-acero-inox.jpg
 author: admin
 date: 2015-12-16 00:00:00

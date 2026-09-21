@@ -1,7 +1,6 @@
 title: Productos
 base: page
 weight: 4
-name: product
 icon: box
 rel: true
 tpl:

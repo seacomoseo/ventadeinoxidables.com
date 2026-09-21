@@ -1,6 +1,6 @@
 ---
-title: Perfil UPN y IPN en Acero Inoxidable
 slug: perfil-upn-y-ipn-en-acero-inoxidable
+title: Perfil UPN y IPN en Acero Inoxidable
 img: /u/upn-y-ipn.jpg
 author: admin
 date: 2015-10-08 00:00:00

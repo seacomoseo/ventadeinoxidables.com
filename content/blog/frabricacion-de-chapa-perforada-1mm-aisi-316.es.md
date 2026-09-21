@@ -1,6 +1,6 @@
 ---
-title: Frabricacion de chapa perforada 1mm Aisi 316
 slug: frabricacion-de-chapa-perforada-1mm-aisi-316
+title: Frabricacion de chapa perforada 1mm Aisi 316
 img: /u/perf-10mm-316-1mm.jpg
 author: admin
 date: 2015-06-22 00:00:00
